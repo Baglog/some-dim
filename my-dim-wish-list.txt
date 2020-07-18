@@ -14,7 +14,7 @@ dimwishlist:item=211938782&perks=3371775011,3429800428,1866048759,47981717
 // PvE, Archer's Tempo, Vorporal Weapon
 dimwishlist:item=211938782&perks=2801223209,3827198035,201365942,1546637391
 
-// notes:"Killing Wind, Unrelenting."|tags:pve
+//notes:"Killing Wind, Unrelenting."|tags:pve
 dimwishlist:item=211938782&perks=852209214,3827198035,2450788523,3108830275
 
 // notes:Mercules904 (must-have PvP): "High aim assist, and good range and stability for the archetype are the main calling cards here, while range and recoil direction are the main drawbacks, but if you throw on a long zoom scope and a Counterbalance mod and give this weapon a shot I think you'll find it to be very strong. [...] All in all, this is a fantastic gun, a great kinetic companion to Summoner and Gnawing Hunger, and I expect it to be meta for as long as 600 RPM ARs reign supreme."|tags:pvp
