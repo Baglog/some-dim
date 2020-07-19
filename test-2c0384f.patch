@@ -1,0 +1,23 @@
+From 2c0384f0a22df103387f8a220852a9876b223fa7 Mon Sep 17 00:00:00 2001
+From: GP <baglog@gmail.com>
+Date: Sat, 18 Jul 2020 08:55:19 -0400
+Subject: [PATCH] test
+
+---
+ my-dim-wish-list.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/my-dim-wish-list.txt b/my-dim-wish-list.txt
+index eb17c2b..6e89ef1 100644
+--- a/my-dim-wish-list.txt
++++ b/my-dim-wish-list.txt
+@@ -1,5 +1,5 @@
+ title:Baglog's personal wish list picks
+-description:Updating as I can.
++description:Updated seasonally.
+ 
+ // title:u/Mercules904's Massive Breakdown of the (Season of Arrivals) Iron Banner Auto Rifle and Sidearm
+ // description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/hjcfew/massive_breakdown_of_the_iron_banner_auto_rifle/
+--
+Working Copy 4.3.2
+
