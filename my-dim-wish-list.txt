@@ -59,9 +59,12 @@ dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,1683379515
 dimwishlist:item=2222560548&perks=1482024992,3142289711,4071163871,1683379515
 dimwishlist:item=2222560548&perks=1392496348,3142289711,4071163871,1683379515
 
+//Just seraph rounds, test
+dimwishlist:item=2222560548&perks=1140096971
+
 //First in, Last Out
 //Assault Mag, Slideshot, Opening Shot (PvP).
-//notes:"Hammerforged preferred, smallbore, corkscrew, or rifled acceptable."|tag:pvp
+//notes:"Hammerforged preferred, smallbore, corkscrew, or rifled acceptable. PvP"|tag:pvp
 dimwishlist:item=3616586446&perks=3250034553,791862061,3161816588,47981717
 dimwishlist:item=3616586446&perks=1332244541,791862061,3161816588,47981717
 dimwishlist:item=3616586446&perks=4090651448,791862061,3161816588,47981717
