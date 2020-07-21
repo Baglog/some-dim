@@ -23,90 +23,59 @@ dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130
 
 //Ikelos SMG
 // seraph, TTT, DSR, vorpal 
-//notes:"PvP God roll with Vorpal Weapon paired with TtT. Chambered comp, corkscrew, smallbore."|
-dimwishlist:item=2222560548&perks=3661387068,1140096971,1359896290,1890422124
-dimwishlist:item=2222560548&perks=3661387068,3142289711,1359896290,1890422124
-dimwishlist:item=2222560548&perks=3661387068,106909392,1359896290,1890422124
-dimwishlist:item=2222560548&perks=4090651448,1140096971,1359896290,1890422124
-dimwishlist:item=2222560548&perks=1482024992,1140096971,1359896290,1890422124
-dimwishlist:item=2222560548&perks=1840239774,3142289711,1359896290,1890422124
-dimwishlist:item=2222560548&perks=4090651448,3142289711,1359896290,1890422124
+//notes:"PvP God roll with Vorpal Weapon paired with TtT. For barrels, Chambered comp, corkscrew, smallbore. Tactical mag is acceptable."|
+dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124
+dimwishlist:item=2222560548&perks=106909392,1359896290,1890422124
 
 //PvE picks
-//Fluted barrel on all, chambered comp
-//threat detector, demolitionist
-dimwishlist:item=2222560548&perks=1840239774,1140096971,4071163871,3523296417
-dimwishlist:item=2222560548&perks=3661387068,3142289711,4071163871,3523296417
-dimwishlist:item=2222560548&perks=1482024992,3142289711,4071163871,3523296417
-dimwishlist:item=2222560548&perks=4090651448,106909392,4071163871,3523296417
-dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,3523296417
-
-//pulse monitor, disruption break
-dimwishlist:item=2222560548&perks=1840239774,1140096971,972757866,1683379515
-dimwishlist:item=2222560548&perks=3661387068,1140096971,972757866,1683379515
-dimwishlist:item=2222560548&perks=4090651448,1140096971,972757866,1683379515
-dimwishlist:item=2222560548&perks=1482024992,1140096971,972757866,1683379515
-dimwishlist:item=2222560548&perks=1482024992,106909392,972757866,1683379515
-
-//graverobber, surrounded
-dimwishlist:item=2222560548&perks=1840239774,1140096971,1631667848,3708227201
-
-//threat detector, vorpal weapon
-dimwishlist:item=2222560548&perks=1840239774,1140096971,4071163871,1546637391
-dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,1683379515
-dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,1683379515
-dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,1683379515
-dimwishlist:item=2222560548&perks=1482024992,3142289711,4071163871,1683379515
-dimwishlist:item=2222560548&perks=1392496348,3142289711,4071163871,1683379515
-
-//Just seraph rounds, test
-dimwishlist:item=2222560548&perks=1140096971
+//notes:"PvE pick. For barrels, fluted or chambered, with seraph rounds or tactical mag. Perk combos are threat detector & demo, pulse monitor & disruption break, graverobber & surrounded, and threat detector & vorpal weapon."
+dimwishlist:item=2222560548&perks=1140096971,4071163871,3523296417
+dimwishlist:item=2222560548&perks=106909392,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1140096971,972757866,1683379515
+dimwishlist:item=2222560548&perks=106909392,972757866,1683379515
+dimwishlist:item=2222560548&perks=1140096971,1631667848,3708227201
+dimwishlist:item=2222560548&perks=106909392,1631667848,3708227201
+dimwishlist:item=2222560548&perks=1140096971,4071163871,1546637391
+dimwishlist:item=2222560548&perks=106909392,4071163871,1546637391
 
 //First in, Last Out
 //Assault Mag, Slideshot, Opening Shot (PvP).
-//notes:"Hammerforged preferred, smallbore, corkscrew, or rifled acceptable. PvP"|tag:pvp
-dimwishlist:item=3616586446&perks=3250034553,791862061,3161816588,47981717
-dimwishlist:item=3616586446&perks=1332244541,791862061,3161816588,47981717
-dimwishlist:item=3616586446&perks=4090651448,791862061,3161816588,47981717
-dimwishlist:item=3616586446&perks=1482024992,791862061,3161816588,47981717
-
-
-//Experimental hip fire, opening shot with different barrel and mags
-dimwishlist:item=3616586446&perks=3250034553,791862061,1866048759,47981717
-dimwishlist:item=3616586446&perks=1482024992,3142289711,1866048759,47981717
-dimwishlist:item=3616586446&perks=1332244541,791862061,1866048759,47981717
-dimwishlist:item=3616586446&perks=4090651448,791862061,1866048759,47981717
-dimwishlist:item=3616586446&perks=1482024992,791862061,1866048759,47981717
-dimwishlist:item=3616586446&perks=1482024992,3142289711,1866048759,47981717
-dimwishlist:item=3616586446&perks=3250034553,3142289711,1866048759,47981717
-dimwishlist:item=3616586446&perks=4090651448,3142289711,1866048759,47981717
+//notes:"PvP pick. Barrels: hammer-forged, smallbore, corkscrew, or rifled acceptable. Assault mag preferred, with either accurized or light mag. Perk combos: slideshot/opening shot or experimental hip fire/opening shot."|tag:Favorite
+dimwishlist:item=3616586446&perks=791862061,3161816588,47981717
+dimwishlist:item=3616586446&perks=3142289711,3161816588,47981717
+dimwishlist:item=3616586446&perks=679225683,3161816588,47981717
+dimwishlist:item=3616586446&perks=791862061,1866048759,47981717
+dimwishlist:item=3616586446&perks=3142289711,1866048759,47981717
+dimwishlist:item=3616586446&perks=679225683,1866048759,47981717
 
 //PvE rolls
-//notes:"Hammerforged preferred, smallbore, corkscrew, or rifled acceptable. Assault mag, tactical mag, appended mag"|tag:pve
-//Pulse monitor, demolitionist
-dimwishlist:item=3616586446&perks=3250034553,106909392,972757866,3523296417
-dimwishlist:item=3616586446&perks=1332244541,791862061,972757866,3523296417
-dimwishlist:item=3616586446&perks=4090651448,791862061,972757866,3523296417
-dimwishlist:item=3616586446&perks=1482024992,791862061,972757866,3523296417
-dimwishlist:item=3616586446&perks=1482024992,106909392,972757866,3523296417
-dimwishlist:item=3616586446&perks=3250034553,106909392,972757866,3523296417
+//notes:"PvE Pick. Barrels: hammer-forged, smallbore, corkscrew, or rifled acceptable. Assault mag preferred, with either tactical or appended mag. Perk combos:Pulse monitor/demo, pulse monitor/surrounded, Autoloading/vorpal. Autoloading/surrounded has potential when paired with a sword with surrounded."|tag:Keep
+dimwishlist:item=3616586446&perks=791862061,972757866,3523296417
+dimwishlist:item=3616586446&perks=106909392,972757866,3523296417
+dimwishlist:item=3616586446&perks=1087426260,972757866,3523296417
+dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=1087426260,3300816228,1546637391
+dimwishlist:item=3616586446&perks=106909392,3300816228,1546637391
+dimwishlist:item=3616586446&perks=791862061,972757866,3708227201
+dimwishlist:item=3616586446&perks=1087426260,972757866,3708227201
+dimwishlist:item=3616586446&perks=106909392,972757866,3708227201
+dimwishlist:item=3616586446&perks=106909392,3300816228,3708227201
+dimwishlist:item=3616586446&perks=1087426260,3300816228,3708227201
+dimwishlist:item=3616586446&perks=791862061,3300816228,3708227201
 
-//Autoloading, vorpal
-dimwishlist:item=3616586446&perks=3250034553,106909392,3300816228,1546637391
-dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391
-dimwishlist:item=3616586446&perks=3250034553,106909392,3300816228,1546637391
-dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,1546637391
-dimwishlist:item=3616586446&perks=4090651448,106909392,3300816228,1546637391
-dimwishlist:item=3616586446&perks=1332244541,791862061,3300816228,1546637391
-dimwishlist:item=3616586446&perks=1332244541,106909392,3300816228,1546637391
-dimwishlist:item=3616586446&perks=1482024992,106909392,3300816228,1546637391
-dimwishlist:item=3616586446&perks=1482024992,791862061,3300816228,1546637391
+//Ikelos_SR_V1.0.2
+//PvP rolls
+//notes:"PvP: Push range to max out stickiness without impacting handling too much. Best bet for barrels: Hammerforged, small bore, corkscrew. Mags: Seraph, Accurized, or Tactical. Perk combos: Moving Target/HIR. There is also the don't blink combo of No Distractions and  Box Breathing. We don't really need quickdraw, it's pretty snappy already."|tag:Favorite
+dimwishlist:item=1253087083&perks=1140096971,588594999,2213355989
+dimwishlist:item=1253087083&perks=3142289711,588594999,2213355989
+dimwishlist:item=1253087083&perks=106909392,588594999,2213355989
+dimwishlist:item=1253087083&perks=1140096971,2866798147,2551157718
+dimwishlist:item=1253087083&perks=3142289711,2866798147,2551157718
+dimwishlist:item=1253087083&perks=106909392,2866798147,2551157718
+
+//notes:"PvE: Range is not as important as stability to make DPS phases easier. Barrels: Arrowhead break is worth trying with a CB mod. Chambered compensator or Small Bore is preferred. Mags preferences in order are Tactical, Appended, and Seraph Rounds. Perk combos are Fourth Time's the Charm or Triple Tap with High Impact Reserves or Kinetic Break."|tag:Keep
+dimwishlist:item=1253087083&perks=106909392,1354429876,1683379515
+dimwishlist:item=1253087083&perks=1087426260,1354429876,1683379515
+dimwishlist:item=1253087083&perks=1140096971,1354429876,1683379515
 
 
-//pulse monitor, surrounded
-dimwishlist:item=3616586446&perks=3250034553,791862061,972757866,3708227201
-dimwishlist:item=3616586446&perks=3250034553,106909392,972757866,3708227201
-dimwishlist:item=3616586446&perks=4090651448,791862061,972757866,3708227201
-dimwishlist:item=3616586446&perks=4090651448,106909392,972757866,3708227201
-dimwishlist:item=3616586446&perks=1482024992,791862061,972757866,3708227201
-dimwishlist:item=3616586446&perks=1482024992,106909392,972757866,3708227201
