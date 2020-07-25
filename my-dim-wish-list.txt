@@ -18,22 +18,6 @@ dimwishlist:item=211938782&perks=852209214,3827198035,2450788523,3108830275
 //notes:"PvE roll for max damage"|tag:pve
 dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130
 
-//Ikelos SMG
-// seraph, TTT, DSR, vorpal 
-//notes:"PvP God roll with Vorpal Weapon paired with TtT. For barrels, Chambered comp, corkscrew, smallbore. Tactical mag is acceptable."
-dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124
-dimwishlist:item=2222560548&perks=106909392,1359896290,1890422124
-
-//PvE picks
-//notes:"PvE pick. For barrels, fluted or chambered, with seraph rounds or tactical mag. Perk combos are threat detector & demo, pulse monitor & disruption break, graverobber & surrounded, and threat detector & vorpal weapon."
-dimwishlist:item=2222560548&perks=1140096971,4071163871,3523296417
-dimwishlist:item=2222560548&perks=106909392,4071163871,3523296417
-dimwishlist:item=2222560548&perks=1140096971,972757866,1683379515
-dimwishlist:item=2222560548&perks=106909392,972757866,1683379515
-dimwishlist:item=2222560548&perks=1140096971,1631667848,3708227201
-dimwishlist:item=2222560548&perks=106909392,1631667848,3708227201
-dimwishlist:item=2222560548&perks=1140096971,4071163871,1546637391
-dimwishlist:item=2222560548&perks=106909392,4071163871,1546637391
 
 //
 // *****FUSION RIFLES****
@@ -62,9 +46,47 @@ dimwishlist:item=607191995&perks=2969185026,1645158859,1683379515
 dimwishlist:item=607191995&perks=3868766766,2039302152,1600092898
 dimwishlist:item=607191995&perks=2969185026,2039302152,1600092898
 
+//
+// *****GRENADE LAUNCHERS****
+//
+//Berenger's Memory
+//PvE
+//notes:"PvE: Spike grenades. Interesting combos: Clown Cartridge/Demolitionist, CC/Shield Disorient,CC/Disruption Break. PvP: Not a great archetype. Try High Explosive Ordinance with Quickdraw/Demo, Threat Detector/Demo."  
+dimwishlist:item=407621213&perks=3301904089,2284787283,3523296417
+dimwishlist:item=407621213&perks=3301904089,2284787283,3275789089
+dimwishlist:item=407621213&perks=3301904089,2284787283,3275789089
+dimwishlist:item=407621213&perks=1380253176,706527188,3523296417
+dimwishlist:item=407621213&perks=1380253176,4071163871,3523296417
 
+//
+// *****PULSE RIFLES****
+//
 
-
+//Cold Denial
+//PvP Rolls
+//notes:"PvP: We want lots of stability. Mags: Ricochet Rounds >> Flared Magwell > Light Mag. Perk combos: Killing Wind/Headseeker; KW/MultiKill Clip; KW/Swash; FF/MKC, FF/HS."
+dimwishlist:item=1216130969&perks=1885400500,2450788523,460017080
+dimwishlist:item=1216130969&perks=1885400500,2450788523,2458213969
+dimwishlist:item=1216130969&perks=1885400500,2450788523,4082225868
+dimwishlist:item=1216130969&perks=1885400500,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1885400500,2779035018,460017080
+dimwishlist:item=1216130969&perks=3230963543,2450788523,460017080
+dimwishlist:item=1216130969&perks=3230963543,2450788523,2458213969
+dimwishlist:item=1216130969&perks=3230963543,2450788523,4082225868
+dimwishlist:item=1216130969&perks=3230963543,2779035018,2458213969
+dimwishlist:item=1216130969&perks=3230963543,2779035018,460017080
+//notes:"To test out- pulse monitor with eye of the storm."
+dimwishlist:item=1216130969&perks=1885400500,972757866,699525795
+//PvE Rolls
+//notes:"PvE: The most interesting rolls are Pulse Monitor/MKC, FF/MKC, FF/Sympathetic Arsenal, and FF/Unrelenting. Reload or mag size barrels are desirable."
+dimwishlist:item=1216130969&perks=1087426260,972757866,2458213969
+dimwishlist:item=1216130969&perks=1087426260,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1087426260,2779035018,3350417888
+dimwishlist:item=1216130969&perks=1087426260,2779035018,3108830275
+dimwishlist:item=1216130969&perks=3230963543,972757866,2458213969  
+dimwishlist:item=1216130969&perks=3230963543,2779035018,2458213969
+dimwishlist:item=1216130969&perks=3230963543,2779035018,3350417888
+dimwishlist:item=1216130969&perks=3230963543,2779035018,3108830275
 
 //
 // *****SHOTGUNS****
@@ -72,7 +94,7 @@ dimwishlist:item=607191995&perks=2969185026,2039302152,1600092898
 
 //First in, Last Out
 //Assault Mag, Slideshot, Opening Shot (PvP).
-//notes:"PvP pick. Barrels: hammer-forged, smallbore, corkscrew, or rifled acceptable. Assault mag preferred, with either accurized or light mag. Perk combos: slideshot/opening shot or experimental hip fire/opening shot."
+//notes:"PvP: Barrels: hammer-forged, smallbore, corkscrew, or rifled acceptable. Assault mag preferred, with either accurized or light mag. Perk combos: slideshot/opening shot or experimental hip fire/opening shot."
 dimwishlist:item=3616586446&perks=791862061,3161816588,47981717
 dimwishlist:item=3616586446&perks=3142289711,3161816588,47981717
 dimwishlist:item=3616586446&perks=679225683,3161816588,47981717
@@ -81,7 +103,7 @@ dimwishlist:item=3616586446&perks=3142289711,1866048759,47981717
 dimwishlist:item=3616586446&perks=679225683,1866048759,47981717
 
 //PvE rolls
-//notes:"PvE Pick. Barrels: hammer-forged, smallbore, corkscrew, or rifled acceptable. Assault mag preferred, with either tactical or appended mag. Perk combos:Pulse monitor/demo, pulse monitor/surrounded, Autoloading/vorpal. Autoloading/surrounded has potential when paired with a sword with surrounded."
+//notes:"PvE: Barrels: hammer-forged, smallbore, corkscrew, or rifled acceptable. Assault mag preferred, with either tactical or appended mag. Perk combos:Pulse monitor/demo, pulse monitor/surrounded, Autoloading/vorpal. Autoloading/surrounded has potential when paired with a sword with surrounded."
 dimwishlist:item=3616586446&perks=791862061,972757866,3523296417
 dimwishlist:item=3616586446&perks=106909392,972757866,3523296417
 dimwishlist:item=3616586446&perks=1087426260,972757866,3523296417
@@ -122,3 +144,33 @@ dimwishlist:item=2807687156&perks=3230963543,2848615171,1771339417
 dimwishlist:item=2807687156&perks=106909392,3096702027,1771339417
 dimwishlist:item=2807687156&perks=3230963543,3096702027,1771339417
 
+//
+// *****SUBMACHINE GUNS****
+//
+
+//Death Adder
+//PvP
+//notes:"Many interesting combinations for PvP. Tactical Mag or Accurized for Mags. Perk combos: Mulligan/Rangefinder, Mulligan/QD, Mulligan Disruption Break."
+dimwishlist:item=2742490609&perks=106909392,3513791699,2846385770
+dimwishlist:item=2742490609&perks=106909392,3513791699,706527188
+dimwishlist:item=2742490609&perks=106909392,3513791699,2846385770
+dimwishlist:item=2742490609&perks=106909392,3513791699,2846385770
+
+
+//Ikelos SMG
+// seraph, TTT, DSR, vorpal 
+//notes:"PvP God roll with Vorpal Weapon paired with TtT. For barrels, Chambered comp, corkscrew, smallbore. Tactical mag is acceptable."
+dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124
+dimwishlist:item=2222560548&perks=106909392,1359896290,1890422124
+
+
+//PvE picks
+//notes:"PvE: For barrels, fluted or chambered, with seraph rounds or tactical mag. Perk combos are threat detector & demo, pulse monitor & disruption break, graverobber & surrounded, and threat detector & vorpal weapon."
+dimwishlist:item=2222560548&perks=1140096971,4071163871,3523296417
+dimwishlist:item=2222560548&perks=106909392,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1140096971,972757866,1683379515
+dimwishlist:item=2222560548&perks=106909392,972757866,1683379515
+dimwishlist:item=2222560548&perks=1140096971,1631667848,3708227201
+dimwishlist:item=2222560548&perks=106909392,1631667848,3708227201
+dimwishlist:item=2222560548&perks=1140096971,4071163871,1546637391
+dimwishlist:item=2222560548&perks=106909392,4071163871,1546637391
