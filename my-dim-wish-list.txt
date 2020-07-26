@@ -104,7 +104,7 @@ dimwishlist:item=1216130969&perks=3230963543,2779035018,3108830275
 // *****SCOUT RIFLES****
 //
 //Night Watch
-//notes:"PvP: Barrels: Chambered Compensator + Counterbalance Mod gives a respectable 82 recoil direction. Other barrel options are Small Bore, Corkscrew, or Fluted. Arrowhead Break is probably overkill but will make recoil perfectly vertical with CB mod. For magazines, Drop Mag is a very viable choice as it brings base reload up to 89. Otherwise, Steady Rounds > Flared Magwell > Tactical Mag. Perk combos: MKC drops optimal TTK to .6 with only 1 stack. Moving Target will help hit Optimal TTK, and Explosive Rounds can help flinch out a win in a duel. Outlaw is going to be the preferred choice, with Rapid Hit as a close second given an optimal kill requires 3C. Threat detector can be very valuable while someone is closing the gap and not yet in range of your secondary. Baglog's chase roll: DM,SR, TD, MKC, Stability or Reload MW."
+//notes:"PvP: Barrels: Chambered Compensator + Counterbalance Mod gives a respectable 82 recoil direction. Other barrel options are Small Bore, Corkscrew, or Fluted. Arrowhead Break is probably overkill but will make recoil perfectly vertical with CB mod. For magazines, Drop Mag is a very viable choice as it brings base reload up to 89. Otherwise, Steady Rounds > Flared Magwell > Tactical Mag. Perk combos: MKC drops optimal TTK to .6 with only 1 stack. Moving Target will help hit Optimal TTK, and Explosive Rounds can help flinch out a win in a duel. Outlaw is going to be the preferred choice, with Rapid Hit as a close second given an optimal kill requires 3C. Threat detector can be very valuable while someone is closing the gap and not yet in range of your secondary. Baglog's chase roll: DM, SR, TD, MKC, Stability or Reload MW."
 dimwishlist:item=3504336176&perks=3230963543,1168162263,2458213969
 dimwishlist:item=3504336176&perks=3230963543,1168162263,588594999
 dimwishlist:item=3504336176&perks=3230963543,1168162263,3038247973
@@ -117,12 +117,8 @@ dimwishlist:item=3504336176&perks=4134353779,1168162263,2458213969
 dimwishlist:item=3504336176&perks=3177308360,1168162263,2458213969
 dimwishlist:item=3504336176&perks=3177308360,1168162263,588594999
 dimwishlist:item=3504336176&perks=3177308360,1168162263,3038247973
-dimwishlist:item=3504336176&perks=3661387068,4134353779,4071163871,2458213969,892374263
-dimwishlist:item=3504336176&perks=3661387068,4134353779,4071163871,2458213969,4283235143
 
 //notes:"PvE: Range > Stability, with Larger mags. Threat detector becomes more valuable because mobs are closer and it's safer to reload. Overflow + Rampage is the overwhelmingly best choice, but Rapid Hit/MKC is a close second because MKC is chainable so reloading is more valuable. Depending on your special, Overflow/Explosive Rounds might be useful for hip-firing adds if you get swarmed."Rapid hit Rampage and Threat detector rampage tied for second. Baglog's chase roll: Extended Barrel, Reload MW." 
-dimwishlist:item=3504336176&perks=1467527085,2420895100,3643424744,3425386926
-dimwishlist:item=3504336176&perks=1467527085,2420895100,3643424744,3425386926,4283235143
 dimwishlist:item=3504336176&perks=1087426260,3643424744,3425386926
 dimwishlist:item=3504336176&perks=1087426260,3643424744,2458213969
 dimwishlist:item=3504336176&perks=1087426260,3643424744,3038247973
@@ -132,12 +128,6 @@ dimwishlist:item=3504336176&perks=106909392,3643424744,3038247973
 dimwishlist:item=3504336176&perks=2420895100,3643424744,3425386926
 dimwishlist:item=3504336176&perks=2420895100,3643424744,2458213969
 dimwishlist:item=3504336176&perks=2420895100,3643424744,3038247973
-
-
-
-
-
-
 
 
 //
