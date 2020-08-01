@@ -2,6 +2,19 @@ title:"Baglog's personal wish list picks."
 description:"Contains Season of Arrival weapons. Shout-out to Silverstarr and Pugbart <3"
 
 //
+//*****AUTO RIFLES*****
+//
+//Gnawing Hunger
+//notes:"In PvP Kill Clip will remain king. Pair it with Zen Moment or Tap the Trigger if you can learn to burst fire. For magazines steady rounds is preferred. For barrels if you you have a stability masterwork then range-enhancing perks such as Smallbore, Hammer-Forged Rifling, or Extended Barrel are great choices. Otherwise look to buff stability. Arrowhead break + a CB mod will push recoil direction to 99. When paired with Zen Moment it can turn this gun into a laser. Niche melee-focused builds will want to pair TtT with Swashbucker to better support putting in a packet. Used Fluted Barrel or anything else that increases handling. Baglog's personal pick: Arrowhead break, steady rounds, zen moment, kill clip."
+dimwishlist:item=821154603&perks=839105230,3177308360,2387244414,1015611457
+dimwishlist:item=821154603&perks=2387244414,1015611457
+dimwishlist:item=821154603&perks=1890422124,4082225868
+
+//notes:"In PvE the curated roll is possibly the best roll for the gun with the combination of Overflow and Rampage. Otherwise, Subsistence and Rampage is likely the best combo for general use. Demolitionist and Autoloading Holster is not as redundant as it might seem due to longer grenade cooldowns. For high-end content the best bet is most-likely ALH and Demolitionist too ensure the gun is always full and grenades are always recharging. Field prep gets honorable mention. Baglog's pick (other than curated): Fluted Barrel, Extended Mag, ALH, Demolitionist."
+dimwishlist:item=821154603&perks=1840239774,2420895100,3300816228,3523296417
+dimwishlist:item=821154603&perks=1820235745,3425386926
+
+//
 // *****BOWS****
 //
 // Whispering Slab
@@ -227,7 +240,66 @@ dimwishlist:item=2222560548&perks=106909392,4071163871,1546637391
 //
 // *****SWORDS*****
 //
-//notes:"all swords: Tireless Blade's perk means 'Whenever the sword has ammo' making it good for trash spamming. Charge rate is how long it takes for sword energy to come back. Guard endurance is how long you can hold the guard animation. Guard efficiency determines how fast your energy tanks while taking damage. Guard resistance is amount of damage prevented per shot. PvP: Efficiency and Resistance, PvE Efficiency and Endurance." 
+//all swords: Tireless Blade's perk means 'Whenever the sword has ammo' making it good for trash spamming. Charge rate is how long it takes for sword energy to come back. Guard endurance is how long you can hold the guard animation. Guard efficiency determines how fast your energy tanks while taking damage. Guard resistance is amount of damage prevented per shot. PvP: Efficiency and Resistance, PvE Efficiency and Endurance. 
+
+//Honor's Edge
+//notes:Best boss roll: Burst Guard, Relentless Strike, Flash Counter. Whack-whack-whack-block the stomp > boss is debuffed. Because this is a weapon-based debuff it will stack with other debuffs. Don't hold block too long, burst guard has very low endurance. Your role is debut first, damage second, so Enduring Blade > Hungry Edge > Tempered Edge. Honor's edge does not have whirlwind blade. Surrounded with Heavy guard is also a viable choice: aim for Jagged Edge in this case.
+dimwishlist:item=2857348871&perks=1261178282,3625355092,1749209109,2244851822
+dimwishlist:item=2857348871&perks=436053704,3625355092,1749209109,2244851822
+dimwishlist:item=2857348871&perks=938542991,3625355092,1749209109,2244851822
+dimwishlist:item=2857348871&perks=3666208348,2349202967,1749209109,3708227201
+
+//notes:Boss debuff roll: The primary purpose of this build is to keep up Flash Counter and not die, even at the cost of personal DPS. Burst Guard, Energy Transfer, Flash Counter. Most useful on Hunter because dodge is OP, then Warlock (get bumped away, pop rift, do ranged damage until it's time to debuff again) and then Titan (get bounced away, pop a barricade, and heal or DPS at range from cover).
+dimwishlist:item=2857348871&perks=1261178282,3625355092,2030760728,2244851822 
+
+//notes:Add spamming build and arc shields: Swordmaster's guard, tireless blade, surrounded. 
+
+dimwishlist:item=2857348871&perks=1261178282,269888150,2590710093,3708227201
+dimwishlist:item=2857348871&perks=436053704,269888150,2590710093,3708227201
+
+
+//notes:Support sword build: Energy Transfer and En Garde. En Garde does not mean light attack, it means an attack that happens quickly after swapping because there is a very narrow window to activate. You want to maximize efficiency in order to be able to heavy attack within the damage window (max energy heavy attacks do the most damage), so your best best is to use as little energy as possible for an individual block, so use enduring guard. Typical pattern might be shotgun-shotgun-sword heavy attack-block-use special to heal/close gap/reload-switch back to shotgun as soon as energy is recharged. Jagged Edge will give you the most punch."
+dimwishlist:item=2857348871&perks=3666208348,599007201,2030760728,2244851822
+
+//Falling Guillotine
+//notes:Generic stack and whack build: Jagged Edge for more damage, Swordmaster guard for faster charge rate (heavy attack every 5), Relentless Attack and Whirlwind blade. You never want to block with this build because you lose your whirlwind stacks-- better to light attack back into range immediately after a stomp. Good for farm content.
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+
+//notes:"Leaning into swords" build:Tireless blade + surrounded. Spamming heavy attacks is much more viable due to AoE affect can allow for faster trash cleanup. Surrounded + Surrounded Spec gives you a high-risk/high reward option to do substantial boss damage without building whirlwind stacks, making it a better choice for mobile bosses. Also, unlike Whirlwind blade, you can block without impacting your DPS and use mods to further increase your survivability and therefore the amount of time you can stay up close to the boss without dying. Maximize ammo even though Tireless Blade will be proccing frequently to allow you to use your sword more in the spaces leading up to the boss encounter.
+dimwishlist:item=614426548&perks=1261178282,2349202967,2590710093,3708227201
+dimwishlist:item=614426548&perks=436053704,2349202967,2590710093,3708227201
+dimwishlist:item=614426548&perks=938542991,2349202967,2590710093,3708227201
+
+
+//Negative Space
+//notes:Disruption Break on a sword is unique and therefore worth holding on to one. Either Tireless Blade or Relentless Strikes is probably fine. There currently are not many (any?) situations in the game in which something with an elemental shield would survive long enough to make it worth having the kinetic debuff take effect. Possibly use case might be to lead with sword, proc disruption break, swap to shotgun, proc 1-2 punch, then melee to finish and do something based on melee kills. OR melee THEN trench barrel for more damage on an already debuffed target. Needs further testing.
+dimwishlist:item=3629968765&perks=1749209109,1683379515 
+
+
+//notes:Generic stack and whack build: Jagged Edge for more damage, Swordmaster guard for faster charge rate (heavy attack every 5), Relentless Attack and Whirlwind blade. You never want to block with this build because you lose your whirlwind stacks-- better to light attack back into range immediately after a stomp. Good for farm content.
+dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130
+
+
+//notes:"Leaning into swords" build:Tireless blade + surrounded. Spamming heavy attacks is much more viable due to AoE affect can allow for faster trash cleanup. Surrounded + Surrounded Spec gives you a high-risk/high reward option to do substantial boss damage without building whirlwind stacks, making it a better choice for mobile bosses. Also, unlike Whirlwind blade, you can block without impacting your DPS and use mods to further increase your survivability (vs damage) and therefore the amount of time you can stay up close to the boss without dying. Maximize ammo even though Tireless Blade will be proccing frequently to allow you to use your sword more in the spaces leading up to the boss encounter.
+dimwishlist:item=3629968765&perks=1261178282,2349202967,1749209109,3708227201
+dimwishlist:item=3629968765&perks=436053704,2349202967,1749209109,3708227201
+dimwishlist:item=3629968765&perks=938542991,2349202967,1749209109,3708227201
+
+
+//notes:Boss debuff roll: The primary purpose of this build is to keep up Flash Counter and not die, even at the cost of personal DPS. Burst Guard, Energy Transfer, Flash Counter. Most useful on Hunter because dodge is OP, then Warlock (get bumped away, pop rift, do ranged damage until it's time to debuff again) and then Titan (get bounced away, pop a barricade, and heal or DPS at range from cover).
+dimwishlist:item=3629968765&perks=1261178282,3625355092,2030760728,2244851822
+
+
+//Steel Sybil
+//notes:Generic stack and whack build: Jagged Edge for more damage, Swordmaster guard for faster charge rate (heavy attack every 5), Relentless Attack and Whirlwind blade. You never want to block with this build because you lose your whirlwind stacks-- better to light attack back into range immediately after a stomp. Good for farm content.
+dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130
+
+//notes:The only viable PvP sword build: Tireless Blade + Assassin's blade. Either burst guard or enduring guard.
+dimwishlist:item=4230993599&perks=3666208348,599007201,2590710093,354401740
+dimwishlist:item=4230993599&perks=3666208348,3625355092,2590710093,354401740
+
 //Temptation's Hook
-//notes:"PvE roll for max single target damage"
-dimwishlist:item=35794111&perks=3666208348,1749209109,3913600130
+//notes:The ranged heavy attack has a damage over time effect. Need to test if 1) Damage Buffs apply to DoT effects and 2) do Surrounded and En Garde work from range. In other words, is Surrounded relative to where the attack was launched and does the En Garde buff need to be active on the screen at time of impact or just at time of launch? Update notes after testing.
+dimwishlist:item=35794111&perks=3708227201
+dimwishlist:item=35794111&perks=1546637391
+dimwishlist:item=35794111&perks=1685431615
