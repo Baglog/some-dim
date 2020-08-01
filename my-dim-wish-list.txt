@@ -1,8 +1,27 @@
-title:"Baglog's personal wish list picks."
-description:"Contains Season of Arrival weapons. Shout-out to Silverstarr and Pugbart <3"
+title:"Baglog's Educational Wish List"
+description:"Long notes highlighting reasoning for each pick designed for the perk novice. Seperate descriptions for PvP and PvE. Shout-out to Silverstarr and Pugbart <3"
 
 //
 //*****AUTO RIFLES*****
+//The Forward Path
+//notes:"PvP: There are two ways to play this AR: standard and SMG. As a kinetic AR, Iron Grip and Dynamic Sway Reduction is probably the best all around combination. Other standout combinations are Dynamic Sway Reduction and Tap the Trigger and Feeding Frenzy with Multi-Kill Clip. With Iron Gaze, the gun behaves more like a 600 RPM precision SMG. Dynamic Sway Reduction or Hip Fire Grip will push the aim assist up to 100.  
+dimwishlist:item=1690783811&perks=3230963543,1359896290,11551321
+dimwishlist:item=1690783811&perks=106909392,1359896290,11551321
+dimwishlist:item=1690783811&perks=3142289711,1359896290,11551321
+dimwishlist:item=1690783811&perks=3142289711,1359896290,1890422124
+dimwishlist:item=1690783811&perks=1968497646,1359896290,1890422124
+dimwishlist:item=1690783811&perks=106909392,1359896290,1890422124
+dimwishlist:item=1690783811&perks=3142289711,2779035018,2458213969
+dimwishlist:item=1690783811&perks=106909392,2779035018,2458213969
+dimwishlist:item=1690783811&perks=3230963543,2779035018,2458213969
+
+//note:"PvE: Not too many reasons to use this in PvE. Look for MKC or Swashbuckler and lots of ammo. Pulse monitor is not terrible here either."
+dimwishlist:item=1690783811&perks=2779035018,2458213969
+dimwishlist:item=1690783811&perks=2779035018,4082225868
+dimwishlist:item=1690783811&perks=972757866,4082225868
+dimwishlist:item=1690783811&perks=972757866,2458213969
+dimwishlist:item=1690783811&perks=1631667848,4082225868
+
 //
 //Gnawing Hunger
 //notes:"In PvP Kill Clip will remain king. Pair it with Zen Moment or Tap the Trigger if you can learn to burst fire. For magazines steady rounds is preferred. For barrels if you you have a stability masterwork then range-enhancing perks such as Smallbore, Hammer-Forged Rifling, or Extended Barrel are great choices. Otherwise look to buff stability. Arrowhead break + a CB mod will push recoil direction to 99. When paired with Zen Moment it can turn this gun into a laser. Niche melee-focused builds will want to pair TtT with Swashbucker to better support putting in a packet. Used Fluted Barrel or anything else that increases handling. Baglog's personal pick: Arrowhead break, steady rounds, zen moment, kill clip."
