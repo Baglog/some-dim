@@ -101,6 +101,23 @@ dimwishlist:item=407621213&perks=3301904089,2284787283,3275789089
 dimwishlist:item=407621213&perks=3301904089,2284787283,3275789089
 dimwishlist:item=407621213&perks=1380253176,706527188,3523296417
 dimwishlist:item=407621213&perks=1380253176,4071163871,3523296417
+//
+// *****HAND CANNONS*****
+//
+//Dire Promise
+//notes:"PvP: The ultimate choice for consistency is Opening Shot with Rangefinder. You could make a case for Opening Shot with Elemental Capacitor, and for melee-centric builds there is always Swashbuckler."
+dimwishlist:item=2742838701&perks=1885400500,47981717,2846385770
+dimwishlist:item=2742838701&perks=1561002382,47981717,2846385770
+dimwishlist:item=2742838701&perks=679225683,47981717,2846385770
+dimwishlist:item=2742838701&perks=1885400500,47981717,3511092054
+dimwishlist:item=2742838701&perks=1561002382,47981717,3511092054
+dimwishlist:item=2742838701&perks=679225683,47981717,3511092054
+
+//notes:PvE:I absolutely love Overflow and Osmosis on this gun and it is my go-to PvE kinetic. Rather than worry about range or reload speed, try to make the magazine bigger and rely on Overflow to continually refill it. 
+dimwishlist:item=2742838701&perks=1087426260,3643424744,1774574192
+dimwishlist:item=2742838701&perks=2420895100,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1968497646,3643424744,1774574192
+
 
 //
 // *****PULSE RIFLES****
