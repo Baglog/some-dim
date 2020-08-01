@@ -174,7 +174,40 @@ dimwishlist:item=3616586446&perks=106909392,972757866,3708227201
 dimwishlist:item=3616586446&perks=106909392,3300816228,3708227201
 dimwishlist:item=3616586446&perks=1087426260,3300816228,3708227201
 dimwishlist:item=3616586446&perks=791862061,3300816228,3708227201
+//
+// *****SIDEARMS*****
+//
+//Fool's Remedy
+//notes:"PvP: The Suros Rapid Fire frame is tied for 3rd with the Lightweight frame to have an optimal TTK of .67s. The Suros frame is less forgiving, needing 5C1B vs. 3C2B for the Lightweight. At very low accuracy (50% or less) the Suros frame is slightly faster (0.03 - 0.07s), but that's not going to make or break the gun. Our best perk combos are going to improve accuracy (more head shots) while still playing to a sidearm's strength: out-maneuvering shotgun rushers. The 2 best perk combos are going to be Hipfire and Iron Gaze or Moving Target and Iron Grip. For MT/IG you want a masterwork other than stability unless you want to use a ranged sight that hurts stability. For magazines, the superior choice is steady rounds unless you have an exotic that buffs reload somehow, then I would pick Extended Mag because why the heck not? All sights provide the same amount of AA, so aim for stability to improve your target tracking. Control > Quickdot > Shortspec. Baglog's pick: Farpoint SAS, Ricochet Rounds, Moving Target, Iron Grip, Stability Masterwork."
+dimwishlist:item=65611680&perks=445755710,1885400500,588594999,11551321
+dimwishlist:item=65611680&perks=445755707,1885400500,588594999,11551321
+dimwishlist:item=65611680&perks=445755706,1885400500,588594999,11551321
+dimwishlist:item=65611680&perks=445755705,1885400500,588594999,11551321
+dimwishlist:item=65611680&perks=445755707,1885400500,1866048759,4152709778
+dimwishlist:item=65611680&perks=445755706,1885400500,1866048759,4152709778
+dimwishlist:item=65611680&perks=445755705,1885400500,1866048759,4152709778
 
+//notes:"PvP:I could be convinced that Pulse Monitor with either Iron Gaze or Iron Grip improves your duels vs. non-shotgun opponents because the magazine is relatively small and the reload is abysmal so getting more bullets mid-fight can tip the scale in your favor. If you main a healing exotic (One-Eyed Mask, Workhusk Crown) then Pulse Monitor and Kill Clip becomes much more attractive because you are almost immediately back in the fight with a full mag and an absurd TTK of .53 at 60% accuracy or better. On paper, Pulse Monitor and Eye of the Storm have potential synergy and might be a better choice for 3's. Baglog's pick: Control SAS, Ricochet Rounds, Pulse Monitor, Kill Clip."
+dimwishlist:item=65611680&perks=445755706,1885400500,972757866,1015611457
+dimwishlist:item=65611680&perks=3230963543,972757866,11551321
+dimwishlist:item=65611680&perks=3230963543,972757866,4152709778
+dimwishlist:item=65611680&perks=3230963543,972757866,699525795
+dimwishlist:item=65611680&perks=1968497646,972757866,1015611457
+dimwishlist:item=65611680&perks=1561002382,972757866,1015611457
+dimwishlist:item=65611680&perks=1087426260,972757866,11551321
+dimwishlist:item=65611680&perks=2420895100,972757866,11551321
+dimwishlist:item=65611680&perks=1561002382,972757866,4152709778
+dimwishlist:item=65611680&perks=1087426260,972757866,4152709778
+dimwishlist:item=65611680&perks=2420895100,972757866,4152709778
+dimwishlist:item=65611680&perks=1968497646,972757866,4152709778
+
+
+//notes:"PvE: This gun does not have a lot to offer. Avoid subsistence because this archetype blows through ammo and you will run out if you aren't careful. The most useful combo is going to be Feeding Frenzy with Kill Clip and a reload boosting magazine: Flared Magwell is your best choice because you want to reload as soon as you get the kill versus emptying the mag. This combo takes 2 clips to ramp up- one to get 3 stacks of FF and the second to go ham with KC activated, implying you need at least 6 adds to get the most value. Pulse monitor does trigger Kill Clip and may be potentially more useful except that if you are critically wounded you should heal instead of stick your neck out to use KC. The utility of this combo goes up if you use a healing exotic."
+dimwishlist:item=65611680&perks=3230963543,2779035018,1015611457
+dimwishlist:item=65611680&perks=1087426260,2779035018,1015611457
+dimwishlist:item=65611680&perks=679225683,2779035018,1015611457
+dimwishlist:item=65611680&perks=2420895100,972757866,1015611457
+dimwishlist:item=65611680&perks=1087426260,972757866,1015611457
 //
 // *****SNIPER RIFLES****
 //
