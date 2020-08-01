@@ -227,6 +227,24 @@ dimwishlist:item=65611680&perks=1087426260,2779035018,1015611457
 dimwishlist:item=65611680&perks=679225683,2779035018,1015611457
 dimwishlist:item=65611680&perks=2420895100,972757866,1015611457
 dimwishlist:item=65611680&perks=1087426260,972757866,1015611457
+
+//Lonesome
+//notes:PvP:Very consistent and forgiving archetype. We really only care about Ricochet Rounds, Full Auto, and either Kill Clip, Swashbuckler, or Demolitionist, in that order.
+dimwishlist:item=2199171672&perks=1885400500,4267945040,1015611457
+dimwishlist:item=2199171672&perks=1885400500,4267945040,3523296417
+dimwishlist:item=2199171672&perks=1885400500,4267945040,4082225868
+
+//notes:PvE:The curated roll is very very good for PvE.
+dimwishlist:item=2199171672&perks=1392496348,2420895100,3643424744,4082225868
+
+//notes:PvE:You want the same rolls as PvP, with the addition of MKC being added. Stability is less important so look for reload mags.
+dimwishlist:item=2199171672&perks=3230963543,4267945040,4082225868
+dimwishlist:item=2199171672&perks=3230963543,4267945040,3523296417
+dimwishlist:item=2199171672&perks=3230963543,4267945040,1015611457
+dimwishlist:item=2199171672&perks=1968497646,4267945040,4082225868 
+dimwishlist:item=2199171672&perks=1968497646,4267945040,3523296417
+dimwishlist:item=2199171672&perks=1968497646,4267945040,1015611457
+
 //
 // *****SNIPER RIFLES****
 //
