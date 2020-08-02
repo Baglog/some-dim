@@ -299,6 +299,10 @@ dimwishlist:item=65611680&perks=1087426260,972757866,4152709778
 dimwishlist:item=65611680&perks=2420895100,972757866,4152709778
 dimwishlist:item=65611680&perks=1968497646,972757866,4152709778
 
+//notes:"PvP:Kill Clip is always worth a look. Pair with Moving Target or Feeding Frenzy."
+dimwishlist:item=65611680&perks=1885400500,588594999,1015611457
+dimwishlist:item=65611680&perks=1885400500,2779035018,1015611457
+
 
 //notes:"PvE: This gun does not have a lot to offer. Avoid subsistence because this archetype blows through ammo and you will run out if you aren't careful. The most useful combo is going to be Feeding Frenzy with Kill Clip and a reload boosting magazine: Flared Magwell is your best choice because you want to reload as soon as you get the kill versus emptying the mag. This combo takes 2 clips to ramp up- one to get 3 stacks of FF and the second to go ham with KC activated, implying you need at least 6 adds to get the most value. Pulse monitor does trigger Kill Clip and may be potentially more useful except that if you are critically wounded you should heal instead of stick your neck out to use KC. The utility of this combo goes up if you use a healing exotic."
 dimwishlist:item=65611680&perks=3230963543,2779035018,1015611457
