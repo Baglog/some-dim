@@ -21,6 +21,36 @@ dimwishlist:item=1690783811&perks=2779035018,4082225868
 dimwishlist:item=1690783811&perks=972757866,4082225868
 dimwishlist:item=1690783811&perks=972757866,2458213969
 dimwishlist:item=1690783811&perks=1631667848,4082225868
+//
+//False Promises
+//notes:"PvP: There is no reason to use this archetype in PvP until it gets a buff. Interesting perk combos to hold onto include Killing Wind and Rampage (Kill streaks), Dynamic Sway Reduction and Zen Moment (make it a laser), Threat Detector and Swashbuckler (finish in Melee range). Underdog and Eye of the Storm are synergistic, but I'm not sure it's powerful enough to be worth using. Mag choice will almost always be Ricochet Rounds, but High Cal and Flared Magwell are not terrible. Recoil direction is 86 so no need to focus there."
+dimwishlist:item=3143732432&perks=1885400500,2450788523,3425386926
+dimwishlist:item=3143732432&perks=1885400500,1359896290,2387244414
+dimwishlist:item=3143732432&perks=1885400500,4071163871,4082225868
+dimwishlist:item=3143732432&perks=1885400500,205890336,699525795
+dimwishlist:item=3143732432&perks=1561002382,2450788523,3425386926
+dimwishlist:item=3143732432&perks=1561002382,1359896290,2387244414
+dimwishlist:item=3143732432&perks=1561002382,4071163871,4082225868
+dimwishlist:item=3143732432&perks=1561002382,205890336,699525795
+dimwishlist:item=3143732432&perks=3230963543,2450788523,3425386926
+dimwishlist:item=3143732432&perks=3230963543,1359896290,2387244414
+dimwishlist:item=3143732432&perks=3230963543,4071163871,4082225868
+dimwishlist:item=3143732432&perks=3230963543,205890336,699525795
+//
+
+//notes:PvE:This gun is very usable in PvP right now. At the top of the list is Overflow/Rampage with any magazine-increasing perk. Sympathetic Arsenal and Feeding Frenzy are a great choice. I am not normally a fan of Subsistence, but pairing with Unrelenting turns you into an add-slaying machine. Overflow and Surrounded could be good in certain boss engagements to get a large damage boost with the only requirement is keeping 2 adds up.
+dimwishlist:item=3143732432&perks=2420895100,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1087426260,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1968497646,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1561002382,3643424744,3425386926
+dimwishlist:item=3143732432&perks=3230963543,2779035018,3350417888
+dimwishlist:item=3143732432&perks=679225683,2779035018,3350417888
+dimwishlist:item=3143732432&perks=1968497646,1820235745,3108830275
+dimwishlist:item=3143732432&perks=1561002382,1820235745,3108830275
+dimwishlist:item=3143732432&perks=1885400500,1820235745,3108830275
+dimwishlist:item=3143732432&perks=2420895100,3643424744,3708227201
+dimwishlist:item=3143732432&perks=1087426260,3643424744,3708227201
+dimwishlist:item=3143732432&perks=1968497646,3643424744,3708227201
 
 //
 //Gnawing Hunger
