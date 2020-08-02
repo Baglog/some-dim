@@ -1,4 +1,4 @@
-title:"Baglog's Educational Wish List"
+title:"Baglog's Educational and Overly Verbose Wish List"
 description:"Long notes highlighting reasoning for each pick designed for the perk novice. Seperate descriptions for PvP and PvE. Shout-out to Silverstarr and Pugbart <3"
 
 //
@@ -240,6 +240,17 @@ dimwishlist:item=3616586446&perks=106909392,972757866,3708227201
 dimwishlist:item=3616586446&perks=106909392,3300816228,3708227201
 dimwishlist:item=3616586446&perks=1087426260,3300816228,3708227201
 dimwishlist:item=3616586446&perks=791862061,3300816228,3708227201
+
+//Hawthorne's Field-Forged Shotgun
+//notes:"PvP: The big draw is Opening Shot. When combined with Firmly Planted you get the best chance of a OHK at range while crouching in the corner like a little bitch or sliding. Assault Mag + Full Auto is another option to basically lean into 2 taps. In that case, it doesn't matter as much what the second perk is.
+dimwishlist:item=1807343361&perks=1047830412,3142289711,280464955,47981717
+dimwishlist:item=1807343361&perks=1332244541,3142289711,280464955,47981717
+dimwishlist:item=1807343361&perks=1332244541,791862061,2117683199,47981717
+dimwishlist:item=1807343361&perks=1047830412,791862061,2117683199,47981717
+
+//notes:"PvE:A few solid options for PvE. Grave Robber and 1-2 Punch. Full Auto and Demolitionist is also good."
+dimwishlist:item=1807343361&perks=791862061,2117683199,3523296417
+dimwishlist:item=1807343361&perks=791862061,1631667848,2679249093
 //
 // *****SIDEARMS*****
 //
