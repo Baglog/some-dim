@@ -148,6 +148,27 @@ dimwishlist:item=2742838701&perks=1087426260,3643424744,1774574192
 dimwishlist:item=2742838701&perks=2420895100,3643424744,1774574192
 dimwishlist:item=2742838701&perks=1968497646,3643424744,1774574192
 
+//True Prophecy
+//notes:"PvP: Aggressive Frame hand cannons are not in a great place in PvP. Pair Opening Shot with Rampage for a blint gun, or Rangefinder and Timed Payload as a straight-forward primary. Explosive Payload also has potential."
+dimwishlist:item=2742838700&perks=3142289711,47981717,3425386926
+dimwishlist:item=2742838700&perks=106909392,47981717,3425386926
+dimwishlist:item=2742838700&perks=4134353779,2846385770,1954620775
+dimwishlist:item=2742838700&perks=106909392,2846385770,1954620775
+dimwishlist:item=2742838700&perks=3230963543,2846385770,1954620775
+dimwishlist:item=2742838700&perks=3142289711,2846385770,3038247973
+dimwishlist:item=2742838700&perks=4134353779,2846385770,3038247973
+dimwishlist:item=2742838700&perks=106909392,2846385770,3038247973
+dimwishlist:item=2742838700&perks=3142289711,47981717,3038247973
+dimwishlist:item=2742838700&perks=4134353779,47981717,3038247973
+dimwishlist:item=2742838700&perks=106909392,47981717,3038247973
+
+//notes:"PvE:Overflow solves a lot of this gun's problems. Pair with Rampage, Demolitionist, or Timed Payload and a large magazine."
+dimwishlist:item=2742838700&perks=2420895100,3643424744,3425386926
+dimwishlist:item=2742838700&perks=1087426260,3643424744,3425386926
+dimwishlist:item=2742838700&perks=2420895100,3643424744,3523296417
+dimwishlist:item=2742838700&perks=1087426260,3643424744,3523296417
+dimwishlist:item=2742838700&perks=2420895100,3643424744,1954620775
+dimwishlist:item=2742838700&perks=1087426260,3643424744,1954620775
 
 //
 // *****PULSE RIFLES****
