@@ -1,8 +1,57 @@
-title:"Baglog's personal wish list picks."
-description:"Contains Season of Arrival weapons. Shout-out to Silverstarr and Pugbart <3"
+title:"Baglog's Educational and Overly Verbose Wish List"
+description:"Long notes highlighting reasoning for each pick designed for the perk novice. Seperate descriptions for PvP and PvE. Shout-out to Silverstarr and Pugbart <3"
 
 //
 //*****AUTO RIFLES*****
+//The Forward Path
+//notes:"PvP: There are two ways to play this AR: standard and SMG. As a kinetic AR, Iron Grip and Dynamic Sway Reduction is probably the best all around combination. Other standout combinations are Dynamic Sway Reduction and Tap the Trigger and Feeding Frenzy with Multi-Kill Clip. With Iron Gaze, the gun behaves more like a 600 RPM precision SMG. Dynamic Sway Reduction or Hip Fire Grip will push the aim assist up to 100.  
+dimwishlist:item=1690783811&perks=3230963543,1359896290,11551321
+dimwishlist:item=1690783811&perks=106909392,1359896290,11551321
+dimwishlist:item=1690783811&perks=3142289711,1359896290,11551321
+dimwishlist:item=1690783811&perks=3142289711,1359896290,1890422124
+dimwishlist:item=1690783811&perks=1968497646,1359896290,1890422124
+dimwishlist:item=1690783811&perks=106909392,1359896290,1890422124
+dimwishlist:item=1690783811&perks=3142289711,2779035018,2458213969
+dimwishlist:item=1690783811&perks=106909392,2779035018,2458213969
+dimwishlist:item=1690783811&perks=3230963543,2779035018,2458213969
+
+//note:"PvE: Not too many reasons to use this in PvE. Look for MKC or Swashbuckler and lots of ammo. Pulse monitor is not terrible here either."
+dimwishlist:item=1690783811&perks=2779035018,2458213969
+dimwishlist:item=1690783811&perks=2779035018,4082225868
+dimwishlist:item=1690783811&perks=972757866,4082225868
+dimwishlist:item=1690783811&perks=972757866,2458213969
+dimwishlist:item=1690783811&perks=1631667848,4082225868
+//
+//False Promises
+//notes:"PvP: There is no reason to use this archetype in PvP until it gets a buff. Interesting perk combos to hold onto include Killing Wind and Rampage (Kill streaks), Dynamic Sway Reduction and Zen Moment (make it a laser), Threat Detector and Swashbuckler (finish in Melee range). Underdog and Eye of the Storm are synergistic, but I'm not sure it's powerful enough to be worth using. Mag choice will almost always be Ricochet Rounds, but High Cal and Flared Magwell are not terrible. Recoil direction is 86 so no need to focus there."
+dimwishlist:item=3143732432&perks=1885400500,2450788523,3425386926
+dimwishlist:item=3143732432&perks=1885400500,1359896290,2387244414
+dimwishlist:item=3143732432&perks=1885400500,4071163871,4082225868
+dimwishlist:item=3143732432&perks=1885400500,205890336,699525795
+dimwishlist:item=3143732432&perks=1561002382,2450788523,3425386926
+dimwishlist:item=3143732432&perks=1561002382,1359896290,2387244414
+dimwishlist:item=3143732432&perks=1561002382,4071163871,4082225868
+dimwishlist:item=3143732432&perks=1561002382,205890336,699525795
+dimwishlist:item=3143732432&perks=3230963543,2450788523,3425386926
+dimwishlist:item=3143732432&perks=3230963543,1359896290,2387244414
+dimwishlist:item=3143732432&perks=3230963543,4071163871,4082225868
+dimwishlist:item=3143732432&perks=3230963543,205890336,699525795
+//
+
+//notes:PvE:This gun is very usable in PvP right now. At the top of the list is Overflow/Rampage with any magazine-increasing perk. Sympathetic Arsenal and Feeding Frenzy are a great choice. I am not normally a fan of Subsistence, but pairing with Unrelenting turns you into an add-slaying machine. Overflow and Surrounded could be good in certain boss engagements to get a large damage boost with the only requirement is keeping 2 adds up.
+dimwishlist:item=3143732432&perks=2420895100,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1087426260,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1968497646,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1561002382,3643424744,3425386926
+dimwishlist:item=3143732432&perks=3230963543,2779035018,3350417888
+dimwishlist:item=3143732432&perks=679225683,2779035018,3350417888
+dimwishlist:item=3143732432&perks=1968497646,1820235745,3108830275
+dimwishlist:item=3143732432&perks=1561002382,1820235745,3108830275
+dimwishlist:item=3143732432&perks=1885400500,1820235745,3108830275
+dimwishlist:item=3143732432&perks=2420895100,3643424744,3708227201
+dimwishlist:item=3143732432&perks=1087426260,3643424744,3708227201
+dimwishlist:item=3143732432&perks=1968497646,3643424744,3708227201
+
 //
 //Gnawing Hunger
 //notes:"In PvP Kill Clip will remain king. Pair it with Zen Moment or Tap the Trigger if you can learn to burst fire. For magazines steady rounds is preferred. For barrels if you you have a stability masterwork then range-enhancing perks such as Smallbore, Hammer-Forged Rifling, or Extended Barrel are great choices. Otherwise look to buff stability. Arrowhead break + a CB mod will push recoil direction to 99. When paired with Zen Moment it can turn this gun into a laser. Niche melee-focused builds will want to pair TtT with Swashbucker to better support putting in a packet. Used Fluted Barrel or anything else that increases handling. Baglog's personal pick: Arrowhead break, steady rounds, zen moment, kill clip."
@@ -82,6 +131,44 @@ dimwishlist:item=407621213&perks=3301904089,2284787283,3275789089
 dimwishlist:item=407621213&perks=3301904089,2284787283,3275789089
 dimwishlist:item=407621213&perks=1380253176,706527188,3523296417
 dimwishlist:item=407621213&perks=1380253176,4071163871,3523296417
+//
+// *****HAND CANNONS*****
+//
+//Dire Promise
+//notes:"PvP: The ultimate choice for consistency is Opening Shot with Rangefinder. You could make a case for Opening Shot with Elemental Capacitor, and for melee-centric builds there is always Swashbuckler."
+dimwishlist:item=2742838701&perks=1885400500,47981717,2846385770
+dimwishlist:item=2742838701&perks=1561002382,47981717,2846385770
+dimwishlist:item=2742838701&perks=679225683,47981717,2846385770
+dimwishlist:item=2742838701&perks=1885400500,47981717,3511092054
+dimwishlist:item=2742838701&perks=1561002382,47981717,3511092054
+dimwishlist:item=2742838701&perks=679225683,47981717,3511092054
+
+//notes:PvE:I absolutely love Overflow and Osmosis on this gun and it is my go-to PvE kinetic. Rather than worry about range or reload speed, try to make the magazine bigger and rely on Overflow to continually refill it. 
+dimwishlist:item=2742838701&perks=1087426260,3643424744,1774574192
+dimwishlist:item=2742838701&perks=2420895100,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1968497646,3643424744,1774574192
+
+//True Prophecy
+//notes:"PvP: Aggressive Frame hand cannons are not in a great place in PvP. Pair Opening Shot with Rampage for a blint gun, or Rangefinder and Timed Payload as a straight-forward primary. Explosive Payload also has potential."
+dimwishlist:item=2742838700&perks=3142289711,47981717,3425386926
+dimwishlist:item=2742838700&perks=106909392,47981717,3425386926
+dimwishlist:item=2742838700&perks=4134353779,2846385770,1954620775
+dimwishlist:item=2742838700&perks=106909392,2846385770,1954620775
+dimwishlist:item=2742838700&perks=3230963543,2846385770,1954620775
+dimwishlist:item=2742838700&perks=3142289711,2846385770,3038247973
+dimwishlist:item=2742838700&perks=4134353779,2846385770,3038247973
+dimwishlist:item=2742838700&perks=106909392,2846385770,3038247973
+dimwishlist:item=2742838700&perks=3142289711,47981717,3038247973
+dimwishlist:item=2742838700&perks=4134353779,47981717,3038247973
+dimwishlist:item=2742838700&perks=106909392,47981717,3038247973
+
+//notes:"PvE:Overflow solves a lot of this gun's problems. Pair with Rampage, Demolitionist, or Timed Payload and a large magazine."
+dimwishlist:item=2742838700&perks=2420895100,3643424744,3425386926
+dimwishlist:item=2742838700&perks=1087426260,3643424744,3425386926
+dimwishlist:item=2742838700&perks=2420895100,3643424744,3523296417
+dimwishlist:item=2742838700&perks=1087426260,3643424744,3523296417
+dimwishlist:item=2742838700&perks=2420895100,3643424744,1954620775
+dimwishlist:item=2742838700&perks=1087426260,3643424744,1954620775
 
 //
 // *****PULSE RIFLES****
@@ -174,6 +261,74 @@ dimwishlist:item=3616586446&perks=106909392,972757866,3708227201
 dimwishlist:item=3616586446&perks=106909392,3300816228,3708227201
 dimwishlist:item=3616586446&perks=1087426260,3300816228,3708227201
 dimwishlist:item=3616586446&perks=791862061,3300816228,3708227201
+
+//Hawthorne's Field-Forged Shotgun
+//notes:"PvP: The big draw is Opening Shot. When combined with Firmly Planted you get the best chance of a OHK at range while crouching in the corner like a little bitch or sliding. Assault Mag + Full Auto is another option to basically lean into 2 taps. In that case, it doesn't matter as much what the second perk is.
+dimwishlist:item=1807343361&perks=1047830412,3142289711,280464955,47981717
+dimwishlist:item=1807343361&perks=1332244541,3142289711,280464955,47981717
+dimwishlist:item=1807343361&perks=1332244541,791862061,2117683199,47981717
+dimwishlist:item=1807343361&perks=1047830412,791862061,2117683199,47981717
+
+//notes:"PvE:A few solid options for PvE. Grave Robber and 1-2 Punch. Full Auto and Demolitionist is also good."
+dimwishlist:item=1807343361&perks=791862061,2117683199,3523296417
+dimwishlist:item=1807343361&perks=791862061,1631667848,2679249093
+//
+// *****SIDEARMS*****
+//
+//Fool's Remedy
+//notes:"PvP: The Suros Rapid Fire frame is tied for 3rd with the Lightweight frame to have an optimal TTK of .67s. The Suros frame is less forgiving, needing 5C1B vs. 3C2B for the Lightweight. At very low accuracy (50% or less) the Suros frame is slightly faster (0.03 - 0.07s), but that's not going to make or break the gun. Our best perk combos are going to improve accuracy (more head shots) while still playing to a sidearm's strength: out-maneuvering shotgun rushers. The 2 best perk combos are going to be Hipfire and Iron Gaze or Moving Target and Iron Grip. For MT/IG you want a masterwork other than stability unless you want to use a ranged sight that hurts stability. For magazines, the superior choice is steady rounds unless you have an exotic that buffs reload somehow, then I would pick Extended Mag because why the heck not? All sights provide the same amount of AA, so aim for stability to improve your target tracking. Control > Quickdot > Shortspec. Baglog's pick: Farpoint SAS, Ricochet Rounds, Moving Target, Iron Grip, Stability Masterwork."
+dimwishlist:item=65611680&perks=445755710,1885400500,588594999,11551321
+dimwishlist:item=65611680&perks=445755707,1885400500,588594999,11551321
+dimwishlist:item=65611680&perks=445755706,1885400500,588594999,11551321
+dimwishlist:item=65611680&perks=445755705,1885400500,588594999,11551321
+dimwishlist:item=65611680&perks=445755707,1885400500,1866048759,4152709778
+dimwishlist:item=65611680&perks=445755706,1885400500,1866048759,4152709778
+dimwishlist:item=65611680&perks=445755705,1885400500,1866048759,4152709778
+
+//notes:"PvP:I could be convinced that Pulse Monitor with either Iron Gaze or Iron Grip improves your duels vs. non-shotgun opponents because the magazine is relatively small and the reload is abysmal so getting more bullets mid-fight can tip the scale in your favor. If you main a healing exotic (One-Eyed Mask, Workhusk Crown) then Pulse Monitor and Kill Clip becomes much more attractive because you are almost immediately back in the fight with a full mag and an absurd TTK of .53 at 60% accuracy or better. On paper, Pulse Monitor and Eye of the Storm have potential synergy and might be a better choice for 3's. Baglog's pick: Control SAS, Ricochet Rounds, Pulse Monitor, Kill Clip."
+dimwishlist:item=65611680&perks=445755706,1885400500,972757866,1015611457
+dimwishlist:item=65611680&perks=3230963543,972757866,11551321
+dimwishlist:item=65611680&perks=3230963543,972757866,4152709778
+dimwishlist:item=65611680&perks=3230963543,972757866,699525795
+dimwishlist:item=65611680&perks=1968497646,972757866,1015611457
+dimwishlist:item=65611680&perks=1561002382,972757866,1015611457
+dimwishlist:item=65611680&perks=1087426260,972757866,11551321
+dimwishlist:item=65611680&perks=2420895100,972757866,11551321
+dimwishlist:item=65611680&perks=1561002382,972757866,4152709778
+dimwishlist:item=65611680&perks=1087426260,972757866,4152709778
+dimwishlist:item=65611680&perks=2420895100,972757866,4152709778
+dimwishlist:item=65611680&perks=1968497646,972757866,4152709778
+
+
+//notes:"PvE: This gun does not have a lot to offer. Avoid subsistence because this archetype blows through ammo and you will run out if you aren't careful. The most useful combo is going to be Feeding Frenzy with Kill Clip and a reload boosting magazine: Flared Magwell is your best choice because you want to reload as soon as you get the kill versus emptying the mag. This combo takes 2 clips to ramp up- one to get 3 stacks of FF and the second to go ham with KC activated, implying you need at least 6 adds to get the most value. Pulse monitor does trigger Kill Clip and may be potentially more useful except that if you are critically wounded you should heal instead of stick your neck out to use KC. The utility of this combo goes up if you use a healing exotic."
+dimwishlist:item=65611680&perks=3230963543,2779035018,1015611457
+dimwishlist:item=65611680&perks=1087426260,2779035018,1015611457
+dimwishlist:item=65611680&perks=679225683,2779035018,1015611457
+dimwishlist:item=65611680&perks=2420895100,972757866,1015611457
+dimwishlist:item=65611680&perks=1087426260,972757866,1015611457
+
+//Lonesome
+//notes:PvP:Very consistent and forgiving archetype with 2C 2B needed to achieve optimal TTK of 0.7s. We really only care about Ricochet Rounds, Full Auto, and either Kill Clip, Swashbuckler, or Demolitionist, in that order.
+dimwishlist:item=2199171672&perks=1885400500,4267945040,1015611457
+dimwishlist:item=2199171672&perks=1885400500,4267945040,3523296417
+dimwishlist:item=2199171672&perks=1885400500,4267945040,4082225868
+
+//notes:PvE:The curated roll is very very good for PvE.
+dimwishlist:item=2199171672&perks=1392496348,2420895100,3643424744,4082225868
+
+//notes:PvE:You want the same rolls as PvP, with the addition of MKC being added. Stability is less important so look for reload mags.
+dimwishlist:item=2199171672&perks=3230963543,4267945040,4082225868
+dimwishlist:item=2199171672&perks=3230963543,4267945040,3523296417
+dimwishlist:item=2199171672&perks=3230963543,4267945040,1015611457
+dimwishlist:item=2199171672&perks=1968497646,4267945040,4082225868 
+dimwishlist:item=2199171672&perks=1968497646,4267945040,3523296417
+dimwishlist:item=2199171672&perks=1968497646,4267945040,1015611457
+
+//Enigma's Draw
+//notes:"PvP:Precision frame sidearms have a competitive and forgiving optimal TTK of .7s with 2C 2B. The only damage-boosting perk on Enigma's Draw is Swashbuckler, which turns it into a 3 bullet kill after a melee. Given you only need 4 shots to kill, Opening Shot helps you ensure that at least one of your 4 bullets is a crit. Paired with Rangefinder, you can build a mini-handcannon with a ton of range. This is really the only reason to use this gun in PvP, otherwise just use Lonesome which is easier to farm in Season 11. Not worth using at all in PvE."
+dimwishlist:item=1723380073&perks=1885400500,4267945040,4082225868
+dimwishlist:item=1723380073&perks=3142289711,47981717,2846385770
+dimwishlist:item=1723380073&perks=1885400500,1631667848,4082225868
 
 //
 // *****SNIPER RIFLES****
