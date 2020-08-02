@@ -276,7 +276,7 @@ dimwishlist:item=65611680&perks=2420895100,972757866,1015611457
 dimwishlist:item=65611680&perks=1087426260,972757866,1015611457
 
 //Lonesome
-//notes:PvP:Very consistent and forgiving archetype. We really only care about Ricochet Rounds, Full Auto, and either Kill Clip, Swashbuckler, or Demolitionist, in that order.
+//notes:PvP:Very consistent and forgiving archetype with 2C 2B needed to achieve optimal TTK of 0.7s. We really only care about Ricochet Rounds, Full Auto, and either Kill Clip, Swashbuckler, or Demolitionist, in that order.
 dimwishlist:item=2199171672&perks=1885400500,4267945040,1015611457
 dimwishlist:item=2199171672&perks=1885400500,4267945040,3523296417
 dimwishlist:item=2199171672&perks=1885400500,4267945040,4082225868
@@ -291,6 +291,12 @@ dimwishlist:item=2199171672&perks=3230963543,4267945040,1015611457
 dimwishlist:item=2199171672&perks=1968497646,4267945040,4082225868 
 dimwishlist:item=2199171672&perks=1968497646,4267945040,3523296417
 dimwishlist:item=2199171672&perks=1968497646,4267945040,1015611457
+
+//Enigma's Draw
+//notes:"PvP:Precision frame sidearms have a competitive and forgiving optimal TTK of .7s with 2C 2B. The only damage-boosting perk on Enigma's Draw is Swashbuckler, which turns it into a 3 bullet kill after a melee. Given you only need 4 shots to kill, Opening Shot helps you ensure that at least one of your 4 bullets is a crit. Paired with Rangefinder, you can build a mini-handcannon with a ton of range. This is really the only reason to use this gun in PvP, otherwise just use Lonesome which is easier to farm in Season 11. Not worth using at all in PvE."
+dimwishlist:item=1723380073&perks=1885400500,4267945040,4082225868
+dimwishlist:item=1723380073&perks=3142289711,47981717,2846385770
+dimwishlist:item=1723380073&perks=1885400500,1631667848,4082225868
 
 //
 // *****SNIPER RIFLES****
