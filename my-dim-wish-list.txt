@@ -253,15 +253,16 @@ dimwishlist:item=3504336176&perks=1467527085,2420895100,247725512,2458213969
 
 //First in, Last Out
 //Assault Mag, Slideshot, Opening Shot (PvP).
-//notes:"PvP: Barrels: hammer-forged, smallbore, corkscrew, or rifled acceptable. Assault mag preferred, with either accurized or light mag as alternate choices. Perk combos: slideshot/opening shot. Mouse and keyboard can also run hip fire/opening shot."
+//notes:"PvP: There is no quickdraw so don't hurt handling. Fluted or corkscrew is ideal. Assault Mag is preferred, with either accurized or light mag as alternate choices. Perk combos: slideshot/opening shot. Mouse and keyboard can also run hip fire/opening shot."
+dimwishlist:item=3616586446&perks=4090651448,791862061,3161816588,47981717
+dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,47981717
 dimwishlist:item=3616586446&perks=791862061,3161816588,47981717
 dimwishlist:item=3616586446&perks=3142289711,3161816588,47981717
 dimwishlist:item=3616586446&perks=679225683,3161816588,47981717
 dimwishlist:item=3616586446&perks=791862061,1866048759,47981717
 dimwishlist:item=3616586446&perks=3142289711,1866048759,47981717
 dimwishlist:item=3616586446&perks=679225683,1866048759,47981717
-dimwishlist:item=3616586446&perks=4090651448,791862061,3161816588,47981717
-dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,47981717
+
 
 //PvE rolls
 //notes:"PvE: Barrels: hammer-forged, smallbore, corkscrew, or rifled acceptable. Assault mag preferred, with either tactical or appended mag. Perk combos:Pulse monitor/demo, pulse monitor/surrounded, Autoloading/vorpal. Autoloading/surrounded has potential when paired with a sword with surrounded."
