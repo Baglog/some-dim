@@ -4,11 +4,12 @@ description:"Long notes highlighting reasoning for each pick designed for the pe
 //
 // *****TEST SECTION*****
 //Sidearm Testing
-//notes:"8/2/20: Test the difference between max range and min range on Omolon burst sidearms"
+//notes:"8/4/20: there is no significant distance in damage dropoffs for omolon burst sidearms, so go stability."
 dimwishlist:item=3622137132
 dimwishlist:item=2009277538
 //Temptation's Hook
-//notes:The ranged heavy attack has a damage over time effect. Need to test if 1) Damage Buffs apply to DoT effects and 2) do Surrounded and En Garde work from range. In other words, is Surrounded relative to where the attack was launched and does the En Garde buff need to be active on the screen at time of impact or just at time of launch? Update notes after testing.
+//notes:The ranged heavy attack has a damage over time effect. Need to test if 1) Damage Buffs apply to DoT effects and 2) do Surrounded and En Garde work from range. In other words, is Surrounded relative to where the attack was launched and does the En Garde buff need to be active on the screen at time of impact or just at time of launch? Update notes after testing. Update: Surrounded is relative to sender. En Garde does not work on this sword
+s heavy attack.
 dimwishlist:item=35794111&perks=3708227201
 dimwishlist:item=35794111&perks=1546637391
 dimwishlist:item=35794111&perks=1685431615
