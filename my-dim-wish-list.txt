@@ -3,10 +3,7 @@ description:"Long notes highlighting reasoning for each pick designed for the pe
 
 //
 // *****TEST SECTION*****
-//Sidearm Testing
-//notes:"8/4/20: there is no significant distance in damage dropoffs for omolon burst sidearms, so go stability."
-dimwishlist:item=3622137132
-dimwishlist:item=2009277538
+
 //Temptation's Hook
 //notes:The ranged heavy attack has a damage over time effect. Need to test if 1) Damage Buffs apply to DoT effects and 2) do Surrounded and En Garde work from range. In other words, is Surrounded relative to where the attack was launched and does the En Garde buff need to be active on the screen at time of impact or just at time of launch? Update notes after testing. Update: Surrounded is relative to sender. En Garde does not work on this sword
 s heavy attack.
@@ -256,28 +253,26 @@ dimwishlist:item=3504336176&perks=1467527085,2420895100,247725512,2458213969
 //notes:"PvP: There is no quickdraw so don't hurt handling. Fluted or corkscrew is ideal. Assault Mag is preferred, with either accurized or light mag as alternate choices. Perk combos: slideshot/opening shot. Mouse and keyboard can also run hip fire/opening shot."
 dimwishlist:item=3616586446&perks=4090651448,791862061,3161816588,47981717
 dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,47981717
-dimwishlist:item=3616586446&perks=791862061,3161816588,47981717
-dimwishlist:item=3616586446&perks=3142289711,3161816588,47981717
-dimwishlist:item=3616586446&perks=679225683,3161816588,47981717
-dimwishlist:item=3616586446&perks=791862061,1866048759,47981717
-dimwishlist:item=3616586446&perks=3142289711,1866048759,47981717
-dimwishlist:item=3616586446&perks=679225683,1866048759,47981717
+dimwishlist:item=3616586446&perks=1840239774,791862061,1866048759,47981717
+dimwishlist:item=3616586446&perks=202670084,3142289711,1866048759,47981717
+dimwishlist:item=3616586446&perks=3250034553,3142289711,1866048759,47981717
 
 
 //PvE rolls
-//notes:"PvE: Barrels: hammer-forged, smallbore, corkscrew, or rifled acceptable. Assault mag preferred, with either tactical or appended mag. Perk combos:Pulse monitor/demo, pulse monitor/surrounded, Autoloading/vorpal. Autoloading/surrounded has potential when paired with a sword with surrounded."
-dimwishlist:item=3616586446&perks=791862061,972757866,3523296417
-dimwishlist:item=3616586446&perks=106909392,972757866,3523296417
-dimwishlist:item=3616586446&perks=1087426260,972757866,3523296417
-dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
-dimwishlist:item=3616586446&perks=1087426260,3300816228,1546637391
-dimwishlist:item=3616586446&perks=106909392,3300816228,1546637391
-dimwishlist:item=3616586446&perks=791862061,972757866,3708227201
-dimwishlist:item=3616586446&perks=1087426260,972757866,3708227201
-dimwishlist:item=3616586446&perks=106909392,972757866,3708227201
-dimwishlist:item=3616586446&perks=106909392,3300816228,3708227201
-dimwishlist:item=3616586446&perks=1087426260,3300816228,3708227201
-dimwishlist:item=3616586446&perks=791862061,3300816228,3708227201
+//notes:"PvE: Range doesn't matter as much so go for handling, mag size, and reload perks. Barrels: Corkscrew, fluted, or smallbore.Tactical mag preferred, appended and extended give the same amount. For perks, in the left column we are only interested in Pulse Monitor and Auto=Loading Holster. In the right, Demolitionist, Surrounded, and Vorpal Weapon."
+dimwishlist:item=3616586446&perks=4090651448,106909392,972757866,3523296417
+dimwishlist:item=3616586446&perks=4090651448,106909392,972757866,3708227201
+dimwishlist:item=3616586446&perks=4090651448,106909392,972757866,1546637391
+dimwishlist:item=3616586446&perks=1840239774,106909392,972757866,3523296417
+dimwishlist:item=3616586446&perks=1840239774,106909392,972757866,3708227201
+dimwishlist:item=3616586446&perks=1840239774,106909392,972757866,1546637391
+dimwishlist:item=3616586446&perks=4090651448,106909392,3300816228,3523296417
+dimwishlist:item=3616586446&perks=4090651448,106909392,3300816228,3708227201
+dimwishlist:item=3616586446&perks=4090651448,106909392,3300816228,1546637391
+dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,3523296417
+dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,3708227201
+dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,1546637391
+
 
 //Hawthorne's Field-Forged Shotgun
 //notes:"PvP: The big draw is Opening Shot. When combined with Firmly Planted you get the best chance of a OHK at range while crouching in the corner like a little bitch or sliding. Assault Mag + Full Auto is another option to basically lean into 2 taps. In that case, it doesn't matter as much what the second perk is.
@@ -292,6 +287,12 @@ dimwishlist:item=1807343361&perks=791862061,1631667848,2679249093
 //
 // *****SIDEARMS*****
 //
+//Enigma's Draw
+//notes:"PvP:Precision frame sidearms have a competitive and forgiving optimal TTK of .7s with 2C 2B. The only damage-boosting perk on Enigma's Draw is Swashbuckler, which turns it into a 3 bullet kill after a melee. Given you only need 4 shots to kill, Opening Shot helps you ensure that at least one of your 4 bullets is a crit. Paired with Rangefinder, you can build a mini-handcannon with a ton of range. This is really the only reason to use this gun in PvP, otherwise just use Lonesome which is easier to farm in Season 11. Not worth using at all in PvE."
+dimwishlist:item=1723380073&perks=1885400500,4267945040,4082225868
+dimwishlist:item=1723380073&perks=3142289711,47981717,2846385770
+dimwishlist:item=1723380073&perks=1885400500,1631667848,4082225868
+
 //Fool's Remedy
 //notes:"PvP: The Suros Rapid Fire frame is tied for 3rd with the Lightweight frame to have an optimal TTK of .67s. The Suros frame is less forgiving, needing 5C1B vs. 3C2B for the Lightweight. At very low accuracy (50% or less) the Suros frame is slightly faster (0.03 - 0.07s), but that's not going to make or break the gun. Our best perk combos are going to improve accuracy (more head shots) while still playing to a sidearm's strength: out-maneuvering shotgun rushers. The 2 best perk combos are going to be Hipfire and Iron Gaze or Moving Target and Iron Grip. For MT/IG you want a masterwork other than stability unless you want to use a ranged sight that hurts stability. For magazines, the superior choice is steady rounds unless you have an exotic that buffs reload somehow, then I would pick Extended Mag because why the heck not? All sights provide the same amount of AA, so aim for stability to improve your target tracking. Control > Quickdot > Shortspec. Baglog's pick: Farpoint SAS, Ricochet Rounds, Moving Target, Iron Grip, Stability Masterwork."
 dimwishlist:item=65611680&perks=445755710,1885400500,588594999,11551321
@@ -328,6 +329,32 @@ dimwishlist:item=65611680&perks=679225683,2779035018,1015611457
 dimwishlist:item=65611680&perks=2420895100,972757866,1015611457
 dimwishlist:item=65611680&perks=1087426260,972757866,1015611457
 
+//Last Hope
+//notes:"PvP: Range doesn't matter for damage drop-off for these sidearms, but it still helps with reticle stickiness a bit. Control SAS and Ricochet Rounds gives 100 stability. If you have a stability masterwork you could also run Farpoint SAS to max out your range and still get 100 stability. Perk combos:FF/MKC, FF/TtT (increased accuracy), Quickdraw/MKC, QD/TtT. Rangefinder is fairly unique but I have no idea how valuable it is. Try it with MKC or TtT."
+dimwishlist:item=3622137132&perks=445755706,1885400500,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755706,1885400500,2779035018,1890422124
+dimwishlist:item=3622137132&perks=445755706,1885400500,706527188,2458213969
+dimwishlist:item=3622137132&perks=445755706,1885400500,706527188,1890422124
+dimwishlist:item=3622137132&perks=445755706,1885400500,2846385770,2458213969
+dimwishlist:item=3622137132&perks=445755706,1885400500,2846385770,1890422124
+dimwishlist:item=3622137132&perks=445755710,1885400500,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755710,1885400500,2779035018,1890422124
+dimwishlist:item=3622137132&perks=445755710,1885400500,706527188,2458213969
+dimwishlist:item=3622137132&perks=445755710,1885400500,706527188,1890422124
+dimwishlist:item=3622137132&perks=445755710,1885400500,2846385770,2458213969
+dimwishlist:item=3622137132&perks=445755710,1885400500,2846385770,1890422124
+
+//Last Dance
+//notes:"PvP: update description later. Tldr; Kill Clip."
+dimwishlist:item=2009277538&perks=445755706,1885400500,588594999,1015611457
+dimwishlist:item=2009277538&perks=445755706,1885400500,4071163871,1015611457
+dimwishlist:item=2009277538&perks=445755706,1885400500,1645158859,1015611457
+dimwishlist:item=2009277538&perks=445755706,1885400500,706527188,1015611457
+dimwishlist:item=2009277538&perks=445755710,1885400500,706527188,1015611457
+dimwishlist:item=2009277538&perks=445755710,1885400500,4071163871,1015611457
+
+
+
 //Lonesome
 //notes:PvP:Very consistent and forgiving archetype with 2C 2B needed to achieve optimal TTK of 0.7s. We really only care about Ricochet Rounds, Full Auto, and either Kill Clip, Swashbuckler, or Demolitionist, in that order.
 dimwishlist:item=2199171672&perks=1885400500,4267945040,1015611457
@@ -345,11 +372,7 @@ dimwishlist:item=2199171672&perks=1968497646,4267945040,4082225868
 dimwishlist:item=2199171672&perks=1968497646,4267945040,3523296417
 dimwishlist:item=2199171672&perks=1968497646,4267945040,1015611457
 
-//Enigma's Draw
-//notes:"PvP:Precision frame sidearms have a competitive and forgiving optimal TTK of .7s with 2C 2B. The only damage-boosting perk on Enigma's Draw is Swashbuckler, which turns it into a 3 bullet kill after a melee. Given you only need 4 shots to kill, Opening Shot helps you ensure that at least one of your 4 bullets is a crit. Paired with Rangefinder, you can build a mini-handcannon with a ton of range. This is really the only reason to use this gun in PvP, otherwise just use Lonesome which is easier to farm in Season 11. Not worth using at all in PvE."
-dimwishlist:item=1723380073&perks=1885400500,4267945040,4082225868
-dimwishlist:item=1723380073&perks=3142289711,47981717,2846385770
-dimwishlist:item=1723380073&perks=1885400500,1631667848,4082225868
+
 
 //
 // *****SNIPER RIFLES****
