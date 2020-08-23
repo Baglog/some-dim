@@ -4,13 +4,6 @@ description:"Long notes highlighting reasoning for each pick designed for the pe
 //
 // *****TEST SECTION*****
 
-//Temptation's Hook
-//notes:The ranged heavy attack has a damage over time effect. Need to test if 1) Damage Buffs apply to DoT effects and 2) do Surrounded and En Garde work from range. In other words, is Surrounded relative to where the attack was launched and does the En Garde buff need to be active on the screen at time of impact or just at time of launch? Update notes after testing. Update: Surrounded is relative to sender. En Garde does not work on this sword
-s heavy attack.
-dimwishlist:item=35794111&perks=3708227201
-dimwishlist:item=35794111&perks=1546637391
-dimwishlist:item=35794111&perks=1685431615
-
 // **************************BEGIN REGULAR WEAPONS***************************
 //
 //*****AUTO RIFLES*****
@@ -73,6 +66,26 @@ dimwishlist:item=821154603&perks=1890422124,4082225868
 //notes:"In PvE the curated roll is possibly the best roll for the gun with the combination of Overflow and Rampage. Otherwise, Subsistence and Rampage is likely the best combo for general use. Demolitionist and Autoloading Holster is not as redundant as it might seem due to longer grenade cooldowns. For high-end content the best bet is most-likely ALH and Demolitionist too ensure the gun is always full and grenades are always recharging. Field prep gets honorable mention. Baglog's pick (other than curated): Fluted Barrel, Extended Mag, ALH, Demolitionist."
 dimwishlist:item=821154603&perks=1840239774,2420895100,3300816228,3523296417
 dimwishlist:item=821154603&perks=1820235745,3425386926
+
+//Uriel's Gift
+//notes:"PvP: Precision ARs are not the best in the current meta. There is no reason not to shoor for Ricochet rounds, although stead rounds is a close second. Uriel's has a decent perk pool for a dueling weapon. In the first column we have DSR, Firmly Planted, and Quickdraw. In the second column Kill Clip, Tap the Trigger, and Moving Target are all solid picks. Under-pressure is not amazing because of having to get more than 15 rounds into the magazine to notice it."
+dimwishlist:item=3863882743&perks=1885400500,1359896290,1015611457
+dimwishlist:item=3863882743&perks=1885400500,1359896290,1890422124
+dimwishlist:item=3863882743&perks=1885400500,1359896290,588594999
+dimwishlist:item=3863882743&perks=1885400500,280464955,1015611457
+dimwishlist:item=3863882743&perks=1885400500,280464955,1890422124
+dimwishlist:item=3863882743&perks=1885400500,280464955,588594999
+dimwishlist:item=3863882743&perks=1885400500,706527188,1015611457
+dimwishlist:item=3863882743&perks=1885400500,706527188,588594999
+dimwishlist:item=3863882743&perks=1885400500,706527188,1890422124
+
+//notes:"PvE: Shield Disorient is the most interesting perk for PvE. Pair with Field Prep or Triple Tap. For mags Armor Piercing is a top pick, with either Appended Mag or Hi-Cal as acceptable alternatives."
+dimwishlist:item=3863882743&perks=1968497646,2869569095,3275789089
+dimwishlist:item=3863882743&perks=1968497646,3400784728,3275789089
+dimwishlist:item=3863882743&perks=1087426260,2869569095,3275789089
+dimwishlist:item=3863882743&perks=1087426260,3400784728,3275789089
+dimwishlist:item=3863882743&perks=1561002382,2869569095,3275789089
+dimwishlist:item=3863882743&perks=1561002382,3400784728,3275789089
 
 //
 // *****BOWS****
@@ -142,6 +155,43 @@ dimwishlist:item=407621213&perks=3301904089,2284787283,3275789089
 dimwishlist:item=407621213&perks=3301904089,2284787283,3275789089
 dimwishlist:item=407621213&perks=1380253176,706527188,3523296417
 dimwishlist:item=407621213&perks=1380253176,4071163871,3523296417
+
+//Truthteller
+//notes:"PvP: Lot of potentially good rolls on this gun. Feeding Frenzy is the standout perk in slot 1. Disruption Break or Multikill Clip are standout perks in slot 2. Demolitionist and Quickdraw are also very usable." 
+dimwishlist:item=1946491241&perks=1478423395,409831596,2779035018,1683379515
+dimwishlist:item=1946491241&perks=3525010810,409831596,2779035018,1683379515
+dimwishlist:item=1946491241&perks=1478423395,3301904089,2779035018,1683379515
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,1683379515
+dimwishlist:item=1946491241&perks=1478423395,409831596,3300816228,1683379515
+dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,1683379515
+dimwishlist:item=1946491241&perks=1478423395,3301904089,3300816228,1683379515
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,1683379515
+dimwishlist:item=1946491241&perks=1478423395,409831596,2779035018,3523296417
+dimwishlist:item=1946491241&perks=3525010810,409831596,2779035018,3523296417
+dimwishlist:item=1946491241&perks=1478423395,3301904089,2779035018,3523296417
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,3523296417
+dimwishlist:item=1946491241&perks=1478423395,409831596,3300816228,3523296417
+dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,3523296417
+dimwishlist:item=1946491241&perks=1478423395,3301904089,3300816228,3523296417
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,3523296417
+dimwishlist:item=1946491241&perks=1478423395,409831596,2779035018,2458213969
+dimwishlist:item=1946491241&perks=3525010810,409831596,2779035018,2458213969
+dimwishlist:item=1946491241&perks=1478423395,3301904089,2779035018,2458213969
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,2458213969
+dimwishlist:item=1946491241&perks=1478423395,409831596,3300816228,2458213969
+dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,2458213969
+dimwishlist:item=1946491241&perks=1478423395,3301904089,3300816228,2458213969
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,2458213969
+dimwishlist:item=1946491241&perks=1478423395,409831596,2779035018,706527188
+dimwishlist:item=1946491241&perks=3525010810,409831596,2779035018,706527188
+dimwishlist:item=1946491241&perks=1478423395,3301904089,2779035018,706527188
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,706527188
+dimwishlist:item=1946491241&perks=1478423395,409831596,3300816228,706527188
+dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,706527188
+dimwishlist:item=1946491241&perks=1478423395,3301904089,3300816228,706527188
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,706527188
+
+
 //
 // *****HAND CANNONS*****
 //
@@ -496,3 +546,9 @@ dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130
 //notes:The only viable PvP sword build: Tireless Blade + Assassin's blade. Either burst guard or enduring guard.
 dimwishlist:item=4230993599&perks=3666208348,599007201,2590710093,354401740
 dimwishlist:item=4230993599&perks=3666208348,3625355092,2590710093,354401740
+
+//Temptation's Hook
+//notes:Generic stack and whack build: Jagged Edge for more damage, Swordmaster guard for faster charge rate (heavy attack after 5), Relentless Attack and Whirlwind blade. You never want to block with this build because you lose your whirlwind stacks-- better to light attack back into range immediately after a stomp. Good for farm content."
+dimwishlist:item=35794111&perks=3708227201
+dimwishlist:item=35794111&perks=1546637391
+dimwishlist:item=35794111&perks=1685431615
