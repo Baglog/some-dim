@@ -251,7 +251,7 @@ dimwishlist:item=1216130969&perks=3230963543,2779035018,460017080
 //notes:"To test out- pulse monitor with eye of the storm."
 dimwishlist:item=1216130969&perks=1885400500,972757866,699525795
 //PvE Rolls
-//notes:"PvE: The most interesting rolls are Pulse Monitor/MKC, FF/MKC, FF/Sympathetic Arsenal, and FF/Unrelenting. Reload or mag size barrels are desirable."
+//notes:"(PvE): The most interesting rolls are Pulse Monitor/MKC, FF/MKC, FF/Sympathetic Arsenal, and FF/Unrelenting. Reload or mag size barrels are desirable."
 dimwishlist:item=1216130969&perks=1087426260,972757866,2458213969
 dimwishlist:item=1216130969&perks=1087426260,2779035018,2458213969
 dimwishlist:item=1216130969&perks=1087426260,2779035018,3350417888
@@ -260,6 +260,35 @@ dimwishlist:item=1216130969&perks=3230963543,972757866,2458213969
 dimwishlist:item=1216130969&perks=3230963543,2779035018,2458213969
 dimwishlist:item=1216130969&perks=3230963543,2779035018,3350417888
 dimwishlist:item=1216130969&perks=3230963543,2779035018,3108830275
+
+//
+// *****ROCKET LAUNCHERS*****
+//
+
+//Hoosegow
+//notes: (PvE): Field prep and cluster bomb for run and gun rocketeering. Don't hurt handling to reduce risk of blowing yourself up. |tags:PvE
+dimwishlist:item=3669616453&perks=3809316345,2985827016,2869569095,1275731761
+dimwishlist:item=3669616453&perks=3525010810,2985827016,2869569095,1275731761
+dimwishlist:item=3669616453&perks=3798852852,2985827016,2869569095,1275731761
+
+//notes: (PvE PvP) a max blast radius version with tracking. With a blast radius masterwork get up to 95 blast radius. 
+dimwishlist:item=3669616453&perks=1478423395,1996142143,3977735242,1275731761
+
+//notes: (PvP) Tracking and quickdraw.
+dimwishlist:item=3669616453&perks=1478423395,1996142143,3977735242,706527188
+
+
+//Shining Sphere
+//notes: (PvE) Quick add kill with the ability to fire 2 rockets at beefier targets thanks to Ambitious Assassin
+dimwishlist:item=136525518&perks=1478423395,1996142143,2869569095,2010801679
+
+//notes: (PvE) Max velocity version with tracking.
+dimwishlist:item=136525518&perks=981914802,2822142346,2846385770,3977735242
+dimwishlist:item=136525518&perks=3525010810,2822142346,2846385770,3977735242
+
+//notes: (PvE) Autoloading Holster and Demolitionist can work like Ambitious Assassin, especially when factoring in other weapons in the DPS rotation.
+dimwishlist:item=136525518&perks=1478423395,1996142143,3300816228,3523296417
+
 
 //
 // *****SCOUT RIFLES****
