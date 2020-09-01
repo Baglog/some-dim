@@ -548,7 +548,30 @@ dimwishlist:item=4230993599&perks=3666208348,599007201,2590710093,354401740
 dimwishlist:item=4230993599&perks=3666208348,3625355092,2590710093,354401740
 
 //Temptation's Hook
-//notes:Generic stack and whack build: Jagged Edge for more damage, Swordmaster guard for faster charge rate (heavy attack after 5), Relentless Attack and Whirlwind blade. You never want to block with this build because you lose your whirlwind stacks-- better to light attack back into range immediately after a stomp. Good for farm content."
-dimwishlist:item=35794111&perks=3708227201
-dimwishlist:item=35794111&perks=1546637391
-dimwishlist:item=35794111&perks=1685431615
+//notes:"PvE: Generic stack and whack build: Jagged Edge for more damage, Swordmaster guard for faster charge rate (heavy attack after 5), Relentless Attack and Whirlwind blade. You never want to block with this build because you lose your whirlwind stacks-- better to light attack back into range immediately after a stomp. Tempered Edge gives you an extra heavy attack if you need it without hurting your damage. Good for farm content."
+dimwishlist:item=35794111&perks=938542991,269888150,1749209109,3913600130
+
+//notes:"PvE: "Spam light attacks on Boss" build. Vorpal Weapon gives this build flexibility in ranged or close damage, and allows for blocking while up close for more survivability. We prefer high resistance on our blocks to stay in the fight longer."
+dimwishlist:item=35794111&perks=3666208348,3625355092,1749209109,1546637391
+dimwishlist:item=35794111&perks=938542991,3625355092,1749209109,1546637391
+dimwishlist:item=35794111&perks=2827049491,3625355092,1749209109,1546637391
+dimwishlist:item=35794111&perks=3666208348,2349202967,1749209109,1546637391
+dimwishlist:item=35794111&perks=938542991,2349202967,1749209109,1546637391
+dimwishlist:item=35794111&perks=2827049491,2349202967,1749209109,1546637391
+
+//notes:"PvE: "All trash all the time" build. You can block to sustain more light damage attacks with Enduring Guard, and Tireless Blade keeps you topped off. Surrounded gives you the opportunity to focus on a major first before clearing out the trash for extra bonus damage."
+dimwishlist:item=35794111&perks=1261178282,599007201,2590710093,3708227201
+dimwishlist:item=35794111&perks=436053704,599007201,2590710093,3708227201
+dimwishlist:item=35794111&perks=938542991,599007201,2590710093,3708227201
+dimwishlist:item=35794111&perks=1261178282,2349202967,2590710093,3708227201
+dimwishlist:item=35794111&perks=436053704,2349202967,2590710093,3708227201
+dimwishlist:item=35794111&perks=938542991,2349202967,2590710093,3708227201
+
+//notes:PvE: Another boss DPS build, but with a supporting twist. Blocking a stomp will debuff and disorient the boss, allowing a coordinated team the ability to kill the boss faster.
+dimwishlist:item=35794111&perks=3666208348,3625355092,1749209109,2244851822
+dimwishlist:item=35794111&perks=938542991,3625355092,1749209109,2244851822
+dimwishlist:item=35794111&perks=2827049491,3625355092,1749209109,2244851822
+dimwishlist:item=35794111&perks=3666208348,2349202967,1749209109,2244851822
+dimwishlist:item=35794111&perks=938542991,2349202967,1749209109,2244851822
+dimwishlist:item=35794111&perks=2827049491,2349202967,1749209109,2244851822
+
