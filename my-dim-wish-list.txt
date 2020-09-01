@@ -363,6 +363,15 @@ dimwishlist:item=1807343361&perks=1047830412,791862061,2117683199,47981717
 //notes:"PvE:A few solid options for PvE. Grave Robber and 1-2 Punch. Full Auto and Demolitionist is also good."
 dimwishlist:item=1807343361&perks=791862061,2117683199,3523296417
 dimwishlist:item=1807343361&perks=791862061,1631667848,2679249093
+
+//Seventh Seraph CQC-12
+//notes: (PvP): Max range with rifled barrel, assault mag, quickdraw, and snapshot. Even better if you get one with vorpal weapon on it as well.
+dimwishlist:item=1821724780&perks=1332244541,791862061,706527188,957782887
+
+//notes: (PvE): Shield disorient is very unique and can be very useful. Auto-loading holster is going to be the best pairing in the perk pool, with possibly Lead From Gold as well. We want a bigger barrel and decent handling. All mag enhancers cap at 7 shots so go for Tactical Mag.
+dimwishlist:item=1821724780&perks=1300023272,106909392,706527188,957782887
+dimwishlist:item=1821724780&perks=4090651448,106909392,706527188,957782887
+
 //
 // *****SIDEARMS*****
 //
