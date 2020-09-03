@@ -467,7 +467,7 @@ dimwishlist:item=2199171672&perks=1968497646,4267945040,1015611457
 //
 //Ikelos_SR_V1.0.2
 //PvP rolls
-//notes:"PvP: Push range to max out stickiness without impacting handling too much. Best bet for barrels: Hammerforged, small bore, corkscrew. Mags: Seraph, Accurized, or Tactical. Perk combos: Moving Target/HIR. There is also the don't blink combo of No Distractions and  Box Breathing. We don't really need quickdraw, it's pretty snappy already."|tag:Favorite
+//notes:(PvP): Push range to max out stickiness without impacting handling too much. Best bet for barrels: Hammerforged, small bore, corkscrew. Mags: Seraph, Accurized, or Tactical. Perk combos: Moving Target/HIR. There is also the don't blink combo of No Distractions and  Box Breathing. We don't really need quickdraw, it's pretty snappy already."|tag:Favorite
 dimwishlist:item=1253087083&perks=1140096971,588594999,2213355989
 dimwishlist:item=1253087083&perks=3142289711,588594999,2213355989
 dimwishlist:item=1253087083&perks=106909392,588594999,2213355989
@@ -478,10 +478,12 @@ dimwishlist:item=1253087083&perks=106909392,2866798147,2551157718
 //notes:(PvP): Seraph Rounds/Moving Target/Quickdraw is the True Vanguard PvP god roll. Barrels should most likely be stability-focused for easier follow up shots, although range may make it easier.
 dimwishlist:item=1253087083&perks=1140096971,588594999,706527188
 
-//notes:"PvE: Range is not as important as stability to make DPS phases easier. Barrels: Arrowhead break is worth trying with a CB mod. Chambered compensator or Small Bore is preferred. Mags preferences in order are Tactical, Appended, and Seraph Rounds. Perk combos are Fourth Time's the Charm or Triple Tap with High Impact Reserves or Kinetic Break."
+//notes:(PvE): Range is not as important as stability to make DPS phases easier. Barrels: Arrowhead break is worth trying with a CB mod. Chambered compensator or Small Bore is preferred. Mags preferences in order are Tactical, Appended, and Seraph Rounds. Perk combos are Fourth Time's the Charm or Triple Tap with High Impact Reserves or Disruption Break."
 dimwishlist:item=1253087083&perks=106909392,1354429876,1683379515
 dimwishlist:item=1253087083&perks=1087426260,1354429876,1683379515
 dimwishlist:item=1253087083&perks=1140096971,1354429876,1683379515
+dimwishlist:item=1253087083&perks=1140096971,3400784728,1683379515
+dimwishlist:item=1253087083&perks=1140096971,3400784728,2213355989
 
 //
 //Distant Tumulus
