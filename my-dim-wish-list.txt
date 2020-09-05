@@ -289,6 +289,14 @@ dimwishlist:item=136525518&perks=3525010810,2822142346,2846385770,3977735242
 //notes: (PvE) Autoloading Holster and Demolitionist can work like Ambitious Assassin, especially when factoring in other weapons in the DPS rotation.
 dimwishlist:item=136525518&perks=1478423395,1996142143,3300816228,3523296417
 
+//Bad Omens
+//notes:(PvE):Look for Alloy Casing, Field Prep, and Kill Clip. Could be very good in the future.
+dimwishlist:item=991314988&perks=2985827016,2869569095,1015611457
+
+//notes:(PvP): Tracking, Cluster Bombs, good velocity and blast radius. Or a velocity build with tracking and quickdraw.
+
+dimwishlist:item=991314988&perks=1996142143,3977735242,1275731761
+dimwishlist:item=991314988&perks=2822142346,3977735242,706527188
 
 //
 // *****SCOUT RIFLES****
