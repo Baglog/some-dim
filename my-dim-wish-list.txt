@@ -542,6 +542,34 @@ dimwishlist:item=2222560548&perks=2420895100,1820235745,3523296417
 dimwishlist:item=2222560548&perks=1140096971,1820235745,3523296417
 dimwishlist:item=2222560548&perks=2420895100,1820235745,1546637391
 
+
+//Seventh Seraph VY-7
+//notes:(PvP) Not a lot of great PvP rolls for this gun in an archetype that doesn't see much use. Reload and handling are both terrible, so look for mitigations to that. Pulse Monitor and Feeding Frenzy are decent, as well as Firm Planted and Feeding Frenzy. If you run a void subclass hold on to a Firmly Planted/Elemental Capacitor roll and try out the stability stacking.
+
+dimwishlist:item=766323545&perks=106909392,972757866,2779035018
+dimwishlist:item=766323545&perks=3177308360,972757866,2779035018
+dimwishlist:item=766323545&perks=4134353779,972757866,2779035018
+dimwishlist:item=766323545&perks=3142289711,972757866,2779035018
+dimwishlist:item=766323545&perks=3142289711,280464955,2779035018
+dimwishlist:item=766323545&perks=4134353779,280464955,2779035018
+dimwishlist:item=766323545&perks=106909392,280464955,2779035018
+dimwishlist:item=766323545&perks=3177308360,280464955,2779035018
+dimwishlist:item=766323545&perks=3142289711,280464955,3511092054
+dimwishlist:item=766323545&perks=4134353779,280464955,3511092054
+dimwishlist:item=766323545&perks=106909392,280464955,3511092054
+dimwishlist:item=766323545&perks=3177308360,280464955,3511092054
+
+//notes:(PvE): Not heavily used especially when Ikelos does the same thing--make Warmind orbs. Keep an eye out for 4th Time's the Charm and Vorpal Weapon or Pulse Monitor/VW. dimwishlist:item=766323545&perks=1087426260,1354429876,1546637391
+dimwishlist:item=766323545&perks=106909392,1354429876,1546637391
+dimwishlist:item=766323545&perks=1431678320,1354429876,1546637391
+dimwishlist:item=766323545&perks=4134353779,1354429876,1546637391
+dimwishlist:item=766323545&perks=4134353779,972757866,1546637391
+dimwishlist:item=766323545&perks=1087426260,972757866,1546637391
+dimwishlist:item=766323545&perks=106909392,972757866,1546637391
+dimwishlist:item=766323545&perks=1431678320,972757866,1546637391
+
+
+
 //
 // *****SWORDS*****
 //
