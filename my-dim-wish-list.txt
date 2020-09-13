@@ -156,6 +156,15 @@ dimwishlist:item=407621213&perks=3301904089,2284787283,3275789089
 dimwishlist:item=407621213&perks=1380253176,706527188,3523296417
 dimwishlist:item=407621213&perks=1380253176,4071163871,3523296417
 
+// Orewing's Maul
+//notes: (PvP/Controller): There is almost no reason to use this in PvP as long as Truthteller is available. The only unique roll is with Rangefinder. Pairing that with max Blast Radius Perks and Proximity Grenades, will make the gun more Mountain-top ish. Your best bets for barrels are  Volatile Launch or Linear Compensator. We don't care about handling because of Quickdraw. Use a Quick Access Sling mod.|tags:PvP,Controller
+dimwishlist:item=2108920981&perks=1441682018,409831596,706527188,2846385770
+dimwishlist:item=2108920981&perks=1478423395,409831596,706527188,2846385770
+
+
+{"itemName":"Orewing's Maul","itemId":2108920981,"slotOneValues":["1441682018","1478423395"],"slotTwoValues":["409831596"],"slotThreeValues":["706527188"],"slotFourValues":["2846385770"],"notes":"There is almost no reason to use this in PvP as long as Truthteller is available. The only unique roll is with Rangefinder. Pairing that with max Blast Radius Perks and Proximity Grenades, will make the gun more Mountain-top ish. Your best bets for barrels are  Volatile Launch or Linear Compensator. We don't care about handling because of Quickdraw. Use a Quick Access Sling mod.","tags":"PvP,Controller"},
+
+
 //Truthteller
 //notes:"PvP: Lot of potentially good rolls on this gun. Feeding Frenzy is the standout perk in slot 1. Disruption Break or Multikill Clip are standout perks in slot 2. Demolitionist and Quickdraw are also very usable. With proximity grenades you do not have to hold the trigger to control detonation time, making it the best choice for swap playstyles." 
 dimwishlist:item=1946491241&perks=1478423395,409831596,2779035018,1683379515
