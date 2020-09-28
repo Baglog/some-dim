@@ -161,10 +161,6 @@ dimwishlist:item=407621213&perks=1380253176,4071163871,3523296417
 dimwishlist:item=2108920981&perks=1441682018,409831596,706527188,2846385770
 dimwishlist:item=2108920981&perks=1478423395,409831596,706527188,2846385770
 
-
-{"itemName":"Orewing's Maul","itemId":2108920981,"slotOneValues":["1441682018","1478423395"],"slotTwoValues":["409831596"],"slotThreeValues":["706527188"],"slotFourValues":["2846385770"],"notes":"There is almost no reason to use this in PvP as long as Truthteller is available. The only unique roll is with Rangefinder. Pairing that with max Blast Radius Perks and Proximity Grenades, will make the gun more Mountain-top ish. Your best bets for barrels are  Volatile Launch or Linear Compensator. We don't care about handling because of Quickdraw. Use a Quick Access Sling mod.","tags":"PvP,Controller"},
-
-
 //Truthteller
 //notes:"PvP: Lot of potentially good rolls on this gun. Feeding Frenzy is the standout perk in slot 1. Disruption Break or Multikill Clip are standout perks in slot 2. Demolitionist and Quickdraw are also very usable. With proximity grenades you do not have to hold the trigger to control detonation time, making it the best choice for swap playstyles." 
 dimwishlist:item=1946491241&perks=1478423395,409831596,2779035018,1683379515
@@ -232,10 +228,6 @@ dimwishlist:item=4292849692&perks=1168162263,3038247973
 dimwishlist:item=4292849692&perks=3300816228,3038247973
 dimwishlist:item=4292849692&perks=2846385770,3038247973
 dimwishlist:item=4292849692&perks=957782887,3038247973
-
-
-{"itemName":"Crimil's Dagger","itemId":4292849692,"slotThreeValues":["588594999","1168162263","3300816228","2846385770","957782887"],"slotFourValues":["1954620775","1015611457","1866048759","47981717","3038247973"],"notes":"Bungie teased improvements to the archetype, so hoard as many of these as vault space permits until November. I have no idea what will be good so putting down some classic pairings.\n","tags":"Speculation"},
-
 
 //
 //Dire Promise
@@ -340,9 +332,6 @@ dimwishlist:item=1216130969&perks=1840239774,3230963543,2779035018,2458213969
 dimwishlist:item=1216130969&perks=839105230,1561002382,2779035018,2458213969
 dimwishlist:item=1216130969&perks=4090651448,1561002382,2779035018,2458213969
 dimwishlist:item=1216130969&perks=1840239774,1561002382,2779035018,2458213969
-
-
-{"itemName":"Cold Denial","itemId":1216130969,"slotOneValues":["839105230","4090651448","1840239774"],"slotTwoValues":["1885400500","3230963543","1561002382"],"slotThreeValues":["2387244414","2450788523","2779035018"],"slotFourValues":["460017080","2458213969"],"notes":"For PvP we are prioritizing handling and stability. The low zoom of the sight mean you are going to be playing more in autorifle range, so headseeker is useful to help save the burst and get optimal TTK. The base recoil is 73, so you can use a recoil-control barrel to help dampen that even further if you feel it's necessary. Zen Moment is really good on this archetype, as is Killing Wind, and Feeding Frenzy isn't a bad perk to live with, especially in conjunction with Multikill Clip. In the last column it's really just Headseeker and Multikill Clip.","tags":"PvP,Controller"},
 
 //notes: (PvE/Controller): For PvE there are a few interesting perk combinations to try out. Feeding Frenzy and either MultiKill CLip or Sympathetic Arsenal synergize well. Pulse Monitor and Sympathetic Arsenal can provide a "Dragon's Shadow Lite" combination that would pair well with slow reloading specials, as would Killing Wind and Sympathetic Arsenal. Threat Detector is more useful in PvE settings where you are less immediately dead by having the wrong weapon out for the engagement range. Finally, Unrelenting is useful either with Feeding Frenzy or possibly even Pulse Monitor to keep the fun rolling. We want reload and handing barrels and mags. Don't ever pass up Ricochet Rounds though.|tags:PvE,Controller
 dimwishlist:item=1216130969&perks=839105230,1431678320,2779035018,3108830275
@@ -525,11 +514,6 @@ dimwishlist:item=1216130969&perks=1840239774,1885400500,2450788523,3350417888
 dimwishlist:item=1216130969&perks=839105230,3230963543,2450788523,3350417888
 dimwishlist:item=1216130969&perks=4090651448,3230963543,2450788523,3350417888
 dimwishlist:item=1216130969&perks=1840239774,3230963543,2450788523,3350417888
-
-
-{"itemName":"Cold Denial","itemId":1216130969,"slotOneValues":["839105230","4090651448","1840239774"],"slotTwoValues":["1431678320","1087426260","1968497646","1885400500","3230963543"],"slotThreeValues":["2779035018","972757866","4071163871","2450788523"],"slotFourValues":["3108830275","2458213969","3350417888"],"notes":"For PvE there are a few interesting perk combinations to try out. Feeding Frenzy and either MultiKill CLip or Sympathetic Arsenal synergize well. Pulse Monitor and Sympathetic Arsenal can provide a \"Dragon's Shadow Lite\" combination that would pair well with slow reloading specials, as would Killing Wind and Sympathetic Arsenal. Threat Detector is more useful in PvE settings where you are less immediately dead by having the wrong weapon out for the engagement range. Finally, Unrelenting is useful either with Feeding Frenzy or possibly even Pulse Monitor to keep the fun rolling. We want reload and handing barrels and mags. Don't ever pass up Ricochet Rounds though.","tags":"PvE,Controller"},
-
-
 
 //
 // *****ROCKET LAUNCHERS*****
@@ -958,9 +942,6 @@ dimwishlist:item=2742490609&perks=3177308360,1359896290,588594999
 |tags:PvP,Godroll
 dimwishlist:item=2222560548&perks=3661387068,1140096971,1359896290,1890422124
 
-
-{"itemName":"Ikelos_SMG_V1.0.2","itemId":2222560548,"slotOneValues":["3661387068"],"slotTwoValues":["1140096971"],"slotThreeValues":["1359896290"],"slotFourValues":["1890422124"],"notes":"Baglog's chase roll for PvP: Chambered Compensator, Seraph Rounds, Dynamic Sway Reduction, Tap the Trigger.\n","tags":"PvP,Godroll"},
-
 //notes: (PvP/Controller): There are many acceptable options for barrels and mags for controllers. For main perk pairings you are most interested in Dynamic Sway Reduction and Threat Detector and Tap the Trigger and Kinetic Break.|tags:PvP,Controller
 dimwishlist:item=2222560548&perks=3661387068,1140096971,1359896290,1890422124
 dimwishlist:item=2222560548&perks=4090651448,1140096971,1359896290,1890422124
@@ -998,9 +979,6 @@ dimwishlist:item=2222560548&perks=1840239774,106909392,4071163871,1683379515
 dimwishlist:item=2222560548&perks=3661387068,3142289711,4071163871,1683379515
 dimwishlist:item=2222560548&perks=4090651448,3142289711,4071163871,1683379515
 dimwishlist:item=2222560548&perks=1840239774,3142289711,4071163871,1683379515
-
-
-{"itemName":"Ikelos_SMG_V1.0.2","itemId":2222560548,"slotOneValues":["3661387068","4090651448","1840239774"],"slotTwoValues":["1140096971","106909392","3142289711"],"slotThreeValues":["1359896290","4071163871"],"slotFourValues":["1890422124","1683379515"],"notes":"There are many acceptable options for barrels and mags for controllers. For main perk pairings you are most interested in Dynamic Sway Reduction and Threat Detector and Tap the Trigger and Kinetic Break.","tags":"PvP,Controller"},
 
 // Ikelos_SMG_V1.0.2
 //notes: (PvE/Controller): Seraph rounds are not nearly as important in PvE. The most common use for this gun is add clearing quickly to spawn Warmind cells to clear more adds. We are going to look for deeper magazines and faster reloads. For main perks, Threat Detector and Subsistence shine, with Disruption Break, Surrounded, and Demolitionist all making a good case. I don't really value Vorpal Weapon on this gun but I won't pitch one that has it.|tags:PvE,Controller
@@ -1076,12 +1054,6 @@ dimwishlist:item=2222560548&perks=1840239774,106909392,1820235745,3523296417
 dimwishlist:item=2222560548&perks=3661387068,1431678320,1820235745,3523296417
 dimwishlist:item=2222560548&perks=4090651448,1431678320,1820235745,3523296417
 dimwishlist:item=2222560548&perks=1840239774,1431678320,1820235745,3523296417
-
-
-{"itemName":"Ikelos_SMG_V1.0.2","itemId":2222560548,"slotOneValues":["3661387068","4090651448","1840239774"],"slotTwoValues":["1140096971","1087426260","106909392","1431678320"],"slotThreeValues":["4071163871","1820235745"],"slotFourValues":["1683379515","3708227201","3523296417"],"notes":"Seraph rounds are not nearly as important in PvE. The most common use for this gun is add clearing quickly to spawn Warmind cells to clear more adds. We are going to look for deeper magazines and faster reloads. For main perks, Threat Detector and Subsistence shine, with Disruption Break, Surrounded, and Demolitionist all making a good case. I don't really value Vorpal Weapon on this gun but I won't pitch one that has it.","tags":"PvE,Controller"},
-
-
-
 
 //Seventh Seraph VY-7
 //notes:(PvP) Not a lot of great PvP rolls for this gun in an archetype that doesn't see much use. Reload and handling are both terrible, so look for mitigations to that. Pulse Monitor and Feeding Frenzy are decent, as well as Firm Planted and Feeding Frenzy. If you run a void subclass hold on to a Firmly Planted/Elemental Capacitor roll and try out the stability stacking.
