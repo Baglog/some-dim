@@ -6,7 +6,31 @@ description:"Long notes highlighting reasoning for each pick designed for the pe
 
 // **************************BEGIN REGULAR WEAPONS***************************
 //
+
 //*****AUTO RIFLES*****
+
+// Arctic Haze
+//notes:controller (PvP): For PvP, the most interesting perk combo seems to be Killing Wind and Thresh, allowing you to go on killing sprees and work into your super faster. Outlaw gets a notable mention in the first slot as well. For barrels, I'm going to want either Arrowhead Brake to help correct the atrocious recoil stat of 42. In the second column I am going to take flared magwell first, then accurized, because I value stability highly. |tags:PvP
+dimwishlist:item=20935540&perks=839105230,3230963543,2450788523,2726471870
+dimwishlist:item=20935540&perks=3661387068,3230963543,2450788523,2726471870
+dimwishlist:item=20935540&perks=1482024992,3230963543,2450788523,2726471870
+dimwishlist:item=20935540&perks=839105230,3142289711,2450788523,2726471870
+dimwishlist:item=20935540&perks=3661387068,3142289711,2450788523,2726471870
+dimwishlist:item=20935540&perks=1482024992,3142289711,2450788523,2726471870
+dimwishlist:item=20935540&perks=839105230,106909392,2450788523,2726471870
+dimwishlist:item=20935540&perks=3661387068,106909392,2450788523,2726471870
+dimwishlist:item=20935540&perks=1482024992,106909392,2450788523,2726471870
+dimwishlist:item=20935540&perks=839105230,3230963543,168162263,2726471870
+dimwishlist:item=20935540&perks=3661387068,3230963543,168162263,2726471870
+dimwishlist:item=20935540&perks=1482024992,3230963543,168162263,2726471870
+dimwishlist:item=20935540&perks=839105230,3142289711,168162263,2726471870
+dimwishlist:item=20935540&perks=3661387068,3142289711,168162263,2726471870
+dimwishlist:item=20935540&perks=1482024992,3142289711,168162263,2726471870
+dimwishlist:item=20935540&perks=839105230,106909392,168162263,2726471870
+dimwishlist:item=20935540&perks=3661387068,106909392,168162263,2726471870
+dimwishlist:item=20935540&perks=1482024992,106909392,168162263,2726471870
+
+//
 //The Forward Path
 //notes:"PvP: There are two ways to play this AR: standard and SMG. As a kinetic AR, Iron Grip and Dynamic Sway Reduction is probably the best all around combination. Other standout combinations are Dynamic Sway Reduction and Tap the Trigger and Feeding Frenzy with Multi-Kill Clip. With Iron Gaze, the gun behaves more like a 600 RPM precision SMG. Dynamic Sway Reduction or Hip Fire Grip will push the aim assist up to 100.  
 dimwishlist:item=1690783811&perks=3230963543,1359896290,11551321
