@@ -709,6 +709,12 @@ dimwishlist:item=1216130969&perks=1840239774,3230963543,2450788523,3350417888
 //
 // *****ROCKET LAUNCHERS*****
 //
+//Code Duello
+//notes: (PvE): This are add-control perks.
+dimwishlist:item=2496242052&perks=3798852852,2985827016,2869569095,4104185692
+
+//notes: (PvE): Single-target DPS
+dimwishlist:item=2496242052&perks=3798852852,3796465595,2869569095,3927722942
 
 //Hoosegow
 //notes: (PvE): Field prep and cluster bomb for run and gun rocketeering. Don't hurt handling to reduce risk of blowing yourself up. |tags:PvE
