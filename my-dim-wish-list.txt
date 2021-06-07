@@ -1271,7 +1271,12 @@ dimwishlist:item=1821724780&perks=1482024992,679225683,1556840489,2360754333
 dimwishlist:item=1821724780&perks=1300023272,679225683,1556840489,2360754333
 dimwishlist:item=1821724780&perks=4090651448,679225683,1556840489,2360754333
 
+//Sojourner's Tale
+Notes:PvP: Tunnel vision and killing wind is a unique perk combo for this gun. Coolguy likes it a lot. Quickdraw and Opening Shot is also obviously great. PvE: Auto-loading and Frenzy is probably the best PvE roll.
 
+dimwishlist:item=599895591&perks=2946784966,2450788523
+dimwishlist:item=599895591&perks=706527188,47981717
+dimwishlist:item=599895591&perks=3300816228,4104185692
 
 //
 // *****SIDEARMS*****
