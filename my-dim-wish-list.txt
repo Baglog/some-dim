@@ -1091,6 +1091,12 @@ dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,3523296417
 dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,3708227201
 dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,1546637391
 
+//Found Verdict
+Notes:PvP:Has potential to be a great PvP shotgun. The roll to shoot for is slideshot and opening shot, but really opening shot is the must-have perk in column 4. Anything else is gravy. PvE: One-Two Punch is special this season so hold on to good rolls with this one. Rewind Rounds is likely the best in slot perk combo because it procs on hits, not kills. Autoloading Holster is always worth keeping one of as well.
+
+dimwishlist:item=3197270240&perks=3161816588,47981717
+dimwishlist:item=3197270240&perks=3418782618,2679249093
+dimwishlist:item=3197270240&perks=3300816228
 
 //Hawthorne's Field-Forged Shotgun
 //notes:(PvP): The big draw is Opening Shot. When combined with Firmly Planted you get the best chance of a 1HK at range while crouching in the corner like a little bitch or sliding. Assault Mag + Full Auto is another option to basically lean into 2 taps. In that case, it doesn't matter as much what the second perk is... Demolitionist is never awful, even if you are going to always want opening shot.|tags:PvP
