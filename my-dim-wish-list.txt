@@ -527,6 +527,14 @@ dimwishlist:item=2742838701&perks=1087426260,3643424744,1774574192
 dimwishlist:item=2742838701&perks=2420895100,3643424744,1774574192
 dimwishlist:item=2742838701&perks=1968497646,3643424744,1774574192
 
+//Finite Impactor
+//notes:PvP: Some elite perk choices to be had. In column 4, Eye of the Storm is interesting, especially when compared with Under Pressure. Multikill Clip is great for 6's and PvE. Iron Reach is not worth the huge nerf to stability for about 2 extra meters. In Column 3 it's Under Pressure, Heating Up, and Killing Wind.
+dimwishlist:item=3813153080&perks=699525795
+dimwishlist:item=3813153080&perks=2458213969
+dimwishlist:item=3813153080&perks=1645158859
+dimwishlist:item=3813153080&perks=1570042021
+dimwishlist:item=3813153080&perks=2450788523
+
 //True Prophecy
 //notes:"PvP: Pair Opening Shot with Rampage for a blint gun, or Rangefinder and Timed Payload as a straight-forward primary. Explosive Payload also has potential."
 dimwishlist:item=2742838700&perks=3142289711,47981717,3425386926
@@ -548,6 +556,11 @@ dimwishlist:item=2742838700&perks=2420895100,3643424744,3523296417
 dimwishlist:item=2742838700&perks=1087426260,3643424744,3523296417
 dimwishlist:item=2742838700&perks=2420895100,3643424744,1954620775
 dimwishlist:item=2742838700&perks=1087426260,3643424744,1954620775
+
+//Machine Guns
+//Archon's Thunder
+//Notes: Placeholder. Looks like a lot of PvE rolls. Slow firing, low stability.
+dimwishlist:item=1967303408
 
 //
 // *****PULSE RIFLES****
@@ -797,6 +810,15 @@ dimwishlist:item=1216130969&perks=1840239774,1885400500,2450788523,3350417888
 dimwishlist:item=1216130969&perks=839105230,3230963543,2450788523,3350417888
 dimwishlist:item=1216130969&perks=4090651448,3230963543,2450788523,3350417888
 dimwishlist:item=1216130969&perks=1840239774,3230963543,2450788523,3350417888
+
+//The Time-Worn Spire
+//Notes:PvP: Rampage is the overall best in slot choice, with an honorable mention to Iron Grip. Moving Target is going to be your best bet for helping your peek game and to push the aim assist up to a base 89. Try different scopes but it's worth pointing out that the Rifle Scope ST pushes the base ADS range all the way out to 44 meters. PvE: just use your roll with Rampage if you must.
+
+dimwishlist:item=3593598010&perks=3425386926
+dimwishlist:item=3593598010&perks=11551321
+dimwishlist:item=3593598010&perks=588594999
+dimwishlist:item=3593598010&perks=706527188
+
 
 //
 // *****ROCKET LAUNCHERS*****
@@ -1193,10 +1215,21 @@ dimwishlist:item=1807343361&perks=1482024992,67922568,1631667848,2679249093
 dimwishlist:item=1807343361&perks=1300023272,67922568,1631667848,2679249093
 dimwishlist:item=1807343361&perks=4090651448,67922568,1631667848,2679249093
 
-//notes:Baglog (??? Test ???): Experimental rolls: very curious about the impact of the hipfire changes. Need to test.|tags:Test
-dimwishlist:item=1807343361&perks=280464955,1866048759
-dimwishlist:item=1807343361&perks=2117683199,1866048759
 
+//Riiswalker
+//notes: PvP: Rapid-fire archetype and successor to Hawthorne's Field-Forged Shotgun. in Column 4 look for Iron Reach first, with Killing Wind worth trying and possibly even Swashbuckler because with this archetype and a ranged melee getting one shot in and following up with a melee is not too hard to pull off, except that Felwinter's exists. Column 3 is still all about Quickdraw, although Surplus might be a better choice depending on your build and playstyle. Firmly Planted is no slideshot, but it can do in a pinch. 
+dimwishlist:item=108221785&perks=591790007
+dimwishlist:item=108221785&perks=2450788523
+dimwishlist:item=108221785&perks=4082225868
+dimwishlist:item=108221785&perks=706527188
+dimwishlist:item=108221785&perks=3436462433
+dimwishlist:item=108221785&perks=280464955
+
+
+//notes:PvE: There is not much here that stands out. If you really want a non-sunset kinetic lightweight shotgun for some reason, you probably really only care about Vorpal, Demolitionist, and Swashbuckler.
+dimwishlist:item=108221785&perks=1546637391
+dimwishlist:item=108221785&perks=3523296417
+dimwishlist:item=108221785&perks=4082225868
 
 
 //Seventh Seraph CQC-12
@@ -1600,6 +1633,16 @@ dimwishlist:item=2807687156&perks=106909392,2848615171,1771339417
 dimwishlist:item=2807687156&perks=3230963543,2848615171,1771339417
 dimwishlist:item=2807687156&perks=106909392,3096702027,1771339417
 dimwishlist:item=2807687156&perks=3230963543,3096702027,1771339417
+
+//Occluded Finality
+//Notes:PvP. Really only interested in Opening Shot.
+dimwishlist:item=852551895&perks=957782887,47981717
+dimwishlist:item=852551895&perks=2866798147,47981717
+dimwishlist:item=852551895&perks=3436462433,47981717
+
+//Notes:PvE: Not sure we need more than one PvE roll, but it might be Mulligan and Vorpal.
+dimwishlist:item=852551895&perks=1546637391
+dimwishlist:item=852551895&perks=3513791699,1546637391
 
 //
 // *****SUBMACHINE GUNS****
