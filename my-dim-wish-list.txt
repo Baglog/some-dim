@@ -289,6 +289,38 @@ dimwishlist:item=407621213&perks=3301904089,2284787283,3275789089
 dimwishlist:item=407621213&perks=1380253176,706527188,3523296417
 dimwishlist:item=407621213&perks=1380253176,4071163871,3523296417
 
+//Empty Vessel
+//notes: There are a few use cases for PvE: Add clear, add control, or boss/champion damage. For add clear, look for Surplus, Feeding Frenzy, or Ambitious Assassin with Multikill Clip and One for All.  
+dimwishlist:item=4255586669&perks=3436462433,2458213969#notes:|tags:PvE,Add Clear
+dimwishlist:item=4255586669&perks=2779035018,2458213969#notes:|tags:PvE,Add Clear
+dimwishlist:item=4255586669&perks=2010801679,2458213969#notes:|tags:PvE,Add Clear
+dimwishlist:item=4255586669&perks=3436462433,4049631843#notes:|tags:PvE,Add Clear
+dimwishlist:item=4255586669&perks=2779035018,4049631843#notes:|tags:PvE,Add Clear
+dimwishlist:item=4255586669&perks=2010801679,4049631843#notes:|tags:PvE,Add Clear
+dimwishlist:item=4255586669&perks=3436462433,960810156#notes:|tags:PvE,Add Clear
+dimwishlist:item=4255586669&perks=2779035018,960810156#notes:|tags:PvE,Add Clear
+dimwishlist:item=4255586669&perks=2010801679,960810156#notes:|tags:PvE,Add Clear
+
+// Empty Vessel
+//notes: (??? PvE ??? / ??? Add Control ???): Add control is all about blinding grenades, so top tier perk combo is Threat Detector and Danger Zone.|tags:PvE,Add Control
+dimwishlist:item=4255586669&perks=3032599245,4071163871,960810156
+dimwishlist:item=4255586669&perks=3032599245,3096702027,960810156
+dimwishlist:item=4255586669&perks=3032599245,4071163871,1683379515
+dimwishlist:item=4255586669&perks=3032599245,3096702027,1683379515
+
+// Empty Vessel
+//notes: (??? PvE ??? / ??? Boss ??? / ??? Champion ???): For boss or champion the idea is faster reload without the need for a kill.|tags:PvE,Boss,Champion
+dimwishlist:item=4255586669&perks=3301904089,3300816228,3108830275
+dimwishlist:item=4255586669&perks=3301904089,2869569095,3108830275
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391
+dimwishlist:item=4255586669&perks=3301904089,2869569095,1546637391
+
+
+
+
+
+
+
 // Orewing's Maul
 //notes: (PvP/Controller): There is almost no reason to use this in PvP as long as Truthteller is available. The only unique roll is with Rangefinder. Pairing that with max Blast Radius Perks and Proximity Grenades, will make the gun more Mountain-top ish. Your best bets for barrels are  Volatile Launch or Linear Compensator. We don't care about handling because of Quickdraw. Use a Quick Access Sling mod.|tags:PvP,Controller
 dimwishlist:item=2108920981&perks=1441682018,409831596,706527188,2846385770
