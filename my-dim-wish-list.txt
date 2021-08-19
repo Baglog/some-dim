@@ -211,6 +211,11 @@ dimwishlist:item=1561006927&perks=1482024992,1885400500,1354429876,3425386926
 
 //
 // *****BOWS****
+
+//Biting Wind
+//notes: 
+
+
 //Imperial Needle
 //notes:PvP: I need to stop hoarding these there are only a few good rolls.
 dimwishlist:item=2121785039&perks=3250034553,1885400500,247725512,3425386926
@@ -856,6 +861,15 @@ dimwishlist:item=1216130969&perks=1840239774,1885400500,2450788523,3350417888
 dimwishlist:item=1216130969&perks=839105230,3230963543,2450788523,3350417888
 dimwishlist:item=1216130969&perks=4090651448,3230963543,2450788523,3350417888
 dimwishlist:item=1216130969&perks=1840239774,3230963543,2450788523,3350417888
+
+
+//The Grid Skipper
+//Notes:PvP: Multikill Clip decreases the TTK to .67 so it's worth holding on to. Best pairing would be Tunnel Vision. There is a 3m damage drop-off difference with a max range version at 36m.
+dimwishlist:item=1621558458&perks=2458213969
+
+//Notes:Baglog's personal PvP God Roll, ideally with range masterwork.
+dimwishlist:item=1621558458&perks=839105230,1885400500,2946784966,2458213969
+
 
 //The Time-Worn Spire
 //Notes:PvP: Rampage is the overall best in slot choice, with an honorable mention to Iron Grip. Moving Target is going to be your best bet for helping your peek game and to push the aim assist up to a base 89. Try different scopes but it's worth pointing out that the Rifle Scope ST pushes the base ADS range all the way out to 44 meters. PvE: just use your roll with Rampage if you must.
