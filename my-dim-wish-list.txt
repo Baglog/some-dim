@@ -111,6 +111,16 @@ dimwishlist:item=1119734784&perks=839105230,3142289711,2779035018,3425386926
 dimwishlist:item=1119734784&perks=839105230,3142289711,2946784966,1015611457
 dimwishlist:item=1119734784&perks=1482024992,3142289711,1570042021,1015611457
 
+//Chrysura Melo
+//Notes:PvP:Multikill Clip reduces TTK from .83 to .67 and so it a highly desirable perk. Does not need counterbalance. 
+dimwishlist:item=1337707096&perks=1570042021,2458213969
+dimwishlist:item=1337707096&perks=1168162263,2458213969
+
+//Notes:Pve:Frenzy is the best choice overall, but you could make a good case for either Multikillclip or Thresh, which also has Synergy with Encore.
+dimwishlist:item=1337707096&perks=1354429876,4104185692
+dimwishlist:item=1337707096&perks=1359896290,4104185692
+dimwishlist:item=1337707096&perks=1195158366,2726471870
+
 //
 //The Forward Path
 //notes:"PvP: There are two ways to play this AR: standard and SMG. As a kinetic AR, Iron Grip and Dynamic Sway Reduction is probably the best all around combination. Other standout combinations are Dynamic Sway Reduction and Tap the Trigger and Feeding Frenzy with Multi-Kill Clip. With Iron Gaze, the gun behaves more like a 600 RPM precision SMG. Dynamic Sway Reduction or Hip Fire Grip will push the aim assist up to 100.  
@@ -283,6 +293,9 @@ dimwishlist:item=607191995&perks=2969185026,1645158859,1683379515
 dimwishlist:item=607191995&perks=3868766766,2039302152,1600092898
 dimwishlist:item=607191995&perks=2969185026,2039302152,1600092898
 
+//Iota Draconis
+//Notes:Placeholder.
+dimwishlist:item=3044460004
 //
 // *****GRENADE LAUNCHERS****
 //
@@ -1179,6 +1192,23 @@ Notes:PvP:Has potential to be a great PvP shotgun. The roll to shoot for is slid
 dimwishlist:item=3197270240&perks=3161816588,47981717
 dimwishlist:item=3197270240&perks=3418782618,2679249093
 dimwishlist:item=3197270240&perks=3300816228
+
+//Fractethyst
+//Notes:PvP:ideally want Full choke and accurized or full choke and assault mag. Opening shot is likely best in slot. Pair with quickdraw, slideshot, or ensemble.
+dimwishlist:item=3184681056&perks=706527188,47981717
+dimwishlist:item=3184681056&perks=2621346526,47981717
+dimwishlist:item=3184681056&perks=3161816588,47981717
+
+//Notes:PvE:Given the high cost of scavenger mods now, Lead from Gold has increased in value. This is also the only kinetic shotgun that can roll trench barrel right now.
+dimwishlist:item=3184681056&perks=1556840489,2360754333
+
+//Notes:Hold on to an adrenaline junkie version since they said it was going to get buffed.
+dimwishlist:item=3184681056&perks=706527188,11612903
+dimwishlist:item=3184681056&perks=25606670,11612903
+
+//Notes:Baglog's personal God Roll.
+dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717
+
 
 //Hawthorne's Field-Forged Shotgun
 //notes:(PvP): The big draw is Opening Shot. When combined with Firmly Planted you get the best chance of a 1HK at range while crouching in the corner like a little bitch or sliding. Assault Mag + Full Auto is another option to basically lean into 2 taps. In that case, it doesn't matter as much what the second perk is... Demolitionist is never awful, even if you are going to always want opening shot.|tags:PvP
