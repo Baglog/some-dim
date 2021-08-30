@@ -219,6 +219,16 @@ dimwishlist:item=1561006927&perks=1467527085,1885400500,1354429876,3425386926
 dimwishlist:item=1561006927&perks=1840239774,1885400500,1354429876,3425386926
 dimwishlist:item=1561006927&perks=1482024992,1885400500,1354429876,3425386926
 
+//The Last Breath
+//notes: (First Impression) With min range damage falloff starts at 24m, and wit max range + rangefinder it is 31m which competes with handcannons, so Full Bore is not automatically a bad choice because of relatively high base handling. It competes with The Forward Path from Iron Banner in the Kinetic Slot, and the Forward Path has scopes and potentially much more range. Frenzy does lower base TTK from .8 to .7, but then you lose rangefinder and almost 2m of range, so not recommended for PvP: pair it with Killing Wind or Slideshot. Options are much better for PvE. Try Demolitionist with Osmosis for match game content, or with Adrenaline Junkie. Dynamic Sway Reduction and Adagio might have decent synergy as well, or Subsistence with Adagio.
+dimwishlist:item=507038823&perks=2450788523,2846385770
+dimwishlist:item=507038823&perks=3161816588,2846385770
+dimwishlist:item=507038823&perks=3523296417,1774574192
+dimwishlist:item=507038823&perks=3523296417,11612903
+dimwishlist:item=507038823&perks=1359896290,3673922083
+dimwishlist:item=507038823&perks=1820235745,3673922083
+
+
 //
 // *****BOWS****
 
@@ -266,6 +276,10 @@ dimwishlist:item=211938782&perks=852209214,3827198035,1866048759,3350417888
 dimwishlist:item=211938782&perks=852209214,3827198035,2450788523,47981717
 dimwishlist:item=211938782&perks=852209214,3827198035,2450788523,3350417888
 
+//Wolftone Draw
+//Notes:Check to see if Archer's tempo mitigates the drawback from Adagio.
+dimwishlist:item=3472875143&perks=201365942,3673922083
+dimwishlist:item=3472875143&perks=2621346526,3673922083
 //
 // *****FUSION RIFLES****
 //
@@ -294,8 +308,13 @@ dimwishlist:item=607191995&perks=3868766766,2039302152,1600092898
 dimwishlist:item=607191995&perks=2969185026,2039302152,1600092898
 
 //Iota Draconis
-//Notes:Placeholder.
-dimwishlist:item=3044460004
+//Notes:Great PvP rolls
+dimwishlist:item=3044460004&perks=1645158859,2213355989
+dimwishlist:item=3044460004&perks=3436462433,1754714824
+
+//Notes:Test these for PvE.
+dimwishlist:item=3044460004&perks=2779035018,4104185692
+
 //
 // *****GRENADE LAUNCHERS****
 //
@@ -397,6 +416,14 @@ dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,706527188
 //
 // *****HAND CANNONS*****
 
+//Annual Skate
+//Notes: First impression: An energy 140 that can roll Timed Payload, which is fairly unique for energy hand cannons and a superior perk choice for Overload mods. Damage falloff starts at 28m for min range and 31m for max range, so consider range-boosting to be a priority, but will still lose handily to a max range Adept Palindrome (37m). For PvE Look for Triple Tap and Timed Payload or Outlaw and Timed Payload. Surplus with or without Wellspring may also be worth trying. For PvP, remeber that Multikill Clip and Swashbuckler at one stack doesn't change TTK, so Opening Shot is likely best in slot, although Timed Payload will help mitigate against damage falloff as well.
+dimwishlist:item=6857689&perks=3400784728,1954620775
+dimwishlist:item=6857689&perks=1168162263,1954620775
+dimwishlist:item=6857689&perks=3436462433,1954620775
+dimwishlist:item=6857689&perks=3436462433,3592538738
+dimwishlist:item=6857689&perks=3436462433,47981717
+ 
 // Bottom Dollar
 //notes: (??? PvP ??? / ??? Controller ???): Many great rolls on this gun if you can get it to drop. We like range, stability, and handling, as well as consistency perks. Be on the lookout for Rangefinder with either Explosive Rounds or Opening Shot.|tags:PvP,Controller
 dimwishlist:item=1046651176&perks=1840239774,3142289711,2450788523,699525795
@@ -1161,6 +1188,20 @@ dimwishlist:item=2050789284&perks=1482024992,3177308360,1168162263,460017080
 // *****SHOTGUNS****
 //
 
+//A Sudden Death
+//notes: PvP roll to try out.
+dimwishlist:item=2855157553&perks=4071163871,957782887
+
+//notes:The safe PvP roll.
+dimwishlist:item=2855157553&perks=3161816588,957782887
+
+//notes: All around ability buff
+dimwishlist:item=2855157553&perks=3436462433,3592538738
+
+//notes: Good PvE synergy
+dimwishlist:item=2855157553&perks=1631667848,2679249093
+
+
 //First in, Last Out
 //Assault Mag, Slideshot, Opening Shot (PvP).
 //notes:"PvP: There is no quickdraw so don't hurt handling. Fluted or corkscrew is ideal. Assault Mag is preferred, with either accurized or light mag as alternate choices. Perk combos: slideshot/opening shot. Mouse and keyboard can also run hip fire/opening shot."
@@ -1585,7 +1626,9 @@ dimwishlist:item=2199171672&perks=1968497646,4267945040,4082225868
 dimwishlist:item=2199171672&perks=1968497646,4267945040,3523296417
 dimwishlist:item=2199171672&perks=1968497646,4267945040,1015611457
 
-
+//Punching Out
+//notes: (placeholder review) Range does very little for this archetype (damage falloff starts at 14.5 min range to 15.5m with max range) so focus on other stats. Recoil is a base 88 so reasonably verticle and won't necessarily need counterbalance. Grab some PvE rolls for unstoppable champs. Overflow isn't automatically great because of double primary usage for barrier champs. For PvP look for Kill Clip or Swashbuckler. Harmony seems less likely to meet the requirement for kills with other weapons given the massive range differences. Will update with more specific roll recommendations after playing with it a bit. 
+dimwishlist:item=378498222
 
 //
 // *****SNIPER RIFLES****
