@@ -648,7 +648,14 @@ dimwishlist:item=2742838700&perks=1087426260,3643424744,3523296417
 dimwishlist:item=2742838700&perks=2420895100,3643424744,1954620775
 dimwishlist:item=2742838700&perks=1087426260,3643424744,1954620775
 
-//Machine Guns
+//Waking Vigil
+//notes: This gun has to have Rangefinder to be competitive. Requires a base range of at least 47. Note that with Opening Shot the initial aim assist is over 100. For PvP best bet is Rangefinder with either Opening Shot or Kill Clip. For PvE, Rapid Hit and Vorpal is 
+dimwishlist:item=334171687&perks=2846385770,47981717
+dimwishlist:item=334171687&perks=2846385770,1015611457
+dimwishlist:item=334171687&perks=247725512,1546637391
+
+
+***MACHINE GUNS****
 //Archon's Thunder
 //Notes: Placeholder. Looks like a lot of PvE rolls. Slow firing, low stability.
 dimwishlist:item=1967303408
