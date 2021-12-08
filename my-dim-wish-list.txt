@@ -377,6 +377,14 @@ dimwishlist:item=304659313&perks=3301904089,706527188,1546637391
 dimwishlist:item=2108920981&perks=1441682018,409831596,706527188,2846385770
 dimwishlist:item=2108920981&perks=1478423395,409831596,706527188,2846385770
 
+//Pardon Our Dust
+//Notes:Another kintetic GL. For PvP, Perpetual Motion is going to be very good here. Combine it with Demolitionist or Wellspring. For PvE, Ensemble and Vorpal Weapon feel like the best choice for damage, or lean into the utility roll and use wellspring again.
+dimwishlist:item=3849810018&perks=2621346526,1546637391
+dimwishlist:item=3849810018&perks=2621346526,3592538738
+dimwishlist:item=3849810018&perks=1428297954,3592538738
+dimwishlist:item=3849810018&perks=1428297954,3523296417
+
+
 //Truthteller
 //notes:"PvP: Lot of potentially good rolls on this gun. Feeding Frenzy is the standout perk in slot 1. Disruption Break or Multikill Clip are standout perks in slot 2. Demolitionist and Quickdraw are also very usable. With proximity grenades you do not have to hold the trigger to control detonation time, making it the best choice for swap playstyles." 
 dimwishlist:item=1946491241&perks=1478423395,409831596,2779035018,1683379515
@@ -618,6 +626,16 @@ dimwishlist:item=2742838701&perks=1087426260,3643424744,1774574192
 dimwishlist:item=2742838701&perks=2420895100,3643424744,1774574192
 dimwishlist:item=2742838701&perks=1968497646,3643424744,1774574192
 
+
+//Eyesluna
+//notes:(Baglog's pick): The bow-swap and overall top roll.
+dimwishlist:item=235827225&perks=1926090094,1885400500,1570042021,1015611457
+//notes:The dueler.
+dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999
+//notes: Curious about this roll.
+dimwishlist:item=235827225&perks=1926090094,1885400500,247725512,438098033
+
+
 //Finite Impactor
 //notes:PvP: Some elite perk choices to be had. In column 4, Eye of the Storm is interesting, especially when compared with Under Pressure. Multikill Clip is great for 6's and PvE. Iron Reach is not worth the huge nerf to stability for about 2 extra meters. In Column 3 it's Under Pressure, Heating Up, and Killing Wind.
 dimwishlist:item=3813153080&perks=699525795
@@ -663,6 +681,15 @@ dimwishlist:item=1967303408
 //
 // *****PULSE RIFLES****
 //
+
+//BXR-55 Battler
+//Notes:Despite the large scope this new frame type really encourages you to hipfire. 70 recoil direction so consider a Counterbalance mod unless you get Arrowhead break. Perpetual Motion and Killing Wind are going to be godly here, especially with Eye of the Storm. Autoloading holster can further help with a run and gun playstyle and the handling is decent at 74. Also has the rare combination of demolitionist and adrenaline junkie.
+dimwishlist:item=2708806099&perks=1428297954
+dimwishlist:item=2708806099&perks=3523296417
+dimwishlist:item=2708806099&perks=2450788523
+dimwishlist:item=2708806099&perks=3300816228
+
+
 
 //Cold Denial
 //PvP God Roll
@@ -1353,6 +1380,11 @@ dimwishlist:item=1807343361&perks=1482024992,67922568,1631667848,2679249093
 dimwishlist:item=1807343361&perks=1300023272,67922568,1631667848,2679249093
 dimwishlist:item=1807343361&perks=4090651448,67922568,1631667848,2679249093
 
+//Matador 64
+//Notes:A Precision Frame shotgun in the energy slot. Best roll is probably Threat Detector and Opening Shot, but really anything with Opening Shot will do for now. For PvE grab a One-Two Punch roll and something with Golden Tricorn.
+dimwishlist:item=2563012876&perks=47981717
+dimwishlist:item=2563012876&perks=2679249093
+dimwishlist:item=2563012876&perks=2610012052
 
 //Riiswalker
 //notes: PvP: Rapid-fire archetype and successor to Hawthorne's Field-Forged Shotgun. in Column 4 look for Iron Reach first, with Killing Wind worth trying and possibly even Swashbuckler because with this archetype and a ranged melee getting one shot in and following up with a melee is not too hard to pull off, except that Felwinter's exists. Column 3 is still all about Quickdraw, although Surplus might be a better choice depending on your build and playstyle. Firmly Planted is no slideshot, but it can do in a pinch. 
@@ -1454,6 +1486,21 @@ Notes:PvP: Tunnel vision and killing wind is a unique perk combo for this gun. C
 dimwishlist:item=599895591&perks=2946784966,2450788523
 dimwishlist:item=599895591&perks=706527188,47981717
 dimwishlist:item=599895591&perks=3300816228,4104185692
+
+
+//Wastelander
+//notes:PvP: Probably perpetual motion and opening shot is going to be the chase roll. Killing Wind miiiight push range out a bit. Look for Perpetual Motion and Adagio, especially with Assault Mag. Harmony is less valuable here.
+dimwishlist:item=1679868061&perks=1428297954,47981717
+dimwishlist:item=1679868061&perks=1428297954,2450788523
+dimwishlist:item=1679868061&perks=1428297954,3673922083
+dimwishlist:item=1679868061&perks=3161816588,47981717
+//notes:PvE: This is notable for being the only kinetic lightweight that can roll One-Two Punch right now, but nothing jumps out as having amazing synergy with it-maybe Lead From Gold to allow for different head armor choices besides a shotgun finder. Trench Barrel could concievably combine with Subsistence. Ensemble and Harmony might make for a good champion-burning tool given how long Harmony lasts and how easy it is to proc with adds around.
+dimwishlist:item=1679868061&perks=25606670,2679249093
+dimwishlist:item=1679868061&perks=1556840489,2679249093
+dimwishlist:item=1679868061&perks=1820235745,2360754333
+dimwishlist:item=1679868061&perks=1556840489,2360754333
+dimwishlist:item=1679868061&perks=2621346526,438098033
+dimwishlist:item=1679868061&perks=1556840489,438098033
 
 //
 // *****SIDEARMS*****
@@ -1639,6 +1686,14 @@ dimwishlist:item=378498222
 
 //
 // *****SNIPER RIFLES****
+
+//1000 Yard Stare
+//Notes:Has quickdraw and snapshot. Also has Firmly planted. That's about all you need to know. Heating Up and Snapshot is worth holding on to because of the potential to gift head shots.
+dimwishlist:item=4164201232&perks=706527188,957782887
+dimwishlist:item=4164201232&perks=280464955,957782887
+dimwishlist:item=4164201232&perks=1570042021,957782887
+
+
 //Frozen Orbit
 //PvP Rolls
 //notes:PvP: looking for only a handful of perks and perk combos. Moving Target, Opening Shot, Snapshot, Firmly Planted, and quick draw. Noteable mention for kill clip rolls to get body shot shenanigans.
@@ -2191,6 +2246,12 @@ dimwishlist:item=766323545&perks=1431678320,972757866,1546637391
 //
 //all swords: Tireless Blade's perk means 'Whenever the sword has ammo' making it good for trash spamming. Charge rate is how long it takes for sword energy to come back. Guard endurance is how long you can hold the guard animation. Guard efficiency determines how fast your energy tanks while taking damage. Guard resistance is amount of damage prevented per shot. PvP: Efficiency and Resistance, PvE Efficiency and Endurance. 
 
+//Half-Truths
+//Notes: Has the new perk Eager Edge, which may or may not be good but look out for it. Also look out for Relentless Attacks and Harmony for some potential boss DPS time.
+dimwishlist:item=3257091166&perks=2077819806
+dimwishlist:item=3257091166&perks=1749209109,438098033
+
+
 //Honor's Edge
 //notes:Best boss roll: Burst Guard, Relentless Strike, Flash Counter. Whack-whack-whack-block the stomp > boss is debuffed. Because this is a weapon-based debuff it will stack with other debuffs. Don't hold block too long, burst guard has very low endurance. Your role is debut first, damage second, so Enduring Blade > Hungry Edge > Tempered Edge. Honor's edge does not have whirlwind blade. Surrounded with Heavy guard is also a viable choice: aim for Jagged Edge in this case.
 dimwishlist:item=2857348871&perks=1261178282,3625355092,1749209109,2244851822
@@ -2218,6 +2279,14 @@ dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
 dimwishlist:item=614426548&perks=1261178282,2349202967,2590710093,3708227201
 dimwishlist:item=614426548&perks=436053704,2349202967,2590710093,3708227201
 dimwishlist:item=614426548&perks=938542991,2349202967,2590710093,3708227201
+
+//Hero of Ages
+//Notes:A lot to like about this spin to win sword and several unique combinations. Look for Unrelenting and Chain Reaction or Unrelenting and One for All. Demolitionist also rolls in column 1 and will provide a lot of ability energy for the right build.
+dimwishlist:item=2139640995&perks=3108830275,2396489472
+dimwishlist:item=2139640995&perks=3108830275,4049631843
+dimwishlist:item=2139640995&perks=3523296417,4049631843
+dimwishlist:item=2139640995&perks=3523296417,2396489472
+
 
 
 //Negative Space
@@ -2275,3 +2344,21 @@ dimwishlist:item=35794111&perks=3666208348,2349202967,1749209109,2244851822
 dimwishlist:item=35794111&perks=938542991,2349202967,1749209109,2244851822
 dimwishlist:item=35794111&perks=2827049491,2349202967,1749209109,2244851822
 
+//The Other Half
+//notes:All of the second column perks are pretty strong, but what sets this sword apart is Frenzy. Pair it with Relentless Strikes.
+dimwishlist:item=3257091167&perks=1749209109,4104185692
+
+// *****TRACE RIFLES*****
+//Retraced Path
+//notes:"PVE: I think the ammo perks are going to be really good for legendary trace rifles. Genesis and disruption break have great synergy. Subsistence + any damage perk. Don't overlook One for All because of how splashy you can be with a trace rifle."
+dimwishlist:item=548958835&perks=3096702027,1683379515
+dimwishlist:item=548958835&perks=1820235745,2610012052
+dimwishlist:item=548958835&perks=1820235745,4104185692
+dimwishlist:item=548958835&perks=1820235745,4049631843
+//notes:"PvP: I could see harmony being terrifying.Killing Wind and Harmony is probably the top pick, but in the new energy meta Demolitionist shouldn't be overlooked either. I could see perpetual motion being good to allow for in-air accuracy."
+dimwishlist:item=548958835&perks=2450788523,438098033
+dimwishlist:item=548958835&perks=2450788523,3523296417
+dimwishlist:item=548958835&perks=1428297954,438098033
+dimwishlist:item=548958835&perks=1428297954,3523296417
+dimwishlist:item=548958835&perks=2779035018,438098033
+dimwishlist:item=548958835&perks=2779035018,3523296417
