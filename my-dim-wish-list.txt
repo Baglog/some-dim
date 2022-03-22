@@ -644,6 +644,29 @@ dimwishlist:item=3813153080&perks=1645158859
 dimwishlist:item=3813153080&perks=1570042021
 dimwishlist:item=3813153080&perks=2450788523
 
+//Frontier's Cry
+//notes: God roll for dueling.
+dimwishlist:item=1141547457,3250034553,3142289711,2946784966,699525795
+
+//notes: God roll for 6's.
+dimwishlist:item=1141547457,3250034553,3142289711,2946784966,1015611457
+
+//notes: Max range alternate God roll for dueling.
+dimwishlist:item=1141547457,3250034553,3142289711,247725512,591790007
+
+//notes:PvP: 180s are not very meta right now so it pays to be picky. This archetype lacks in the handling and reload departments so look for masterworks there. We want Tunnel Vision and Iron Reach, Rapid Hit and Iron Reach, Tunnel Vision and Kill Clip, Compulsive Reloader and Kill Clip, Tunnel Vision and Eye of the Storm, and Rapid Hit or Steady Hands with Adagio.
+dimwishlist:item=1141547457,2946784966,591790007
+dimwishlist:item=1141547457,247725512,591790007
+dimwishlist:item=1141547457,2946784966,1015611457
+dimwishlist:item=1141547457,671806388,1015611457
+dimwishlist:item=1141547457,671806388,699525795
+dimwishlist:item=1141547457,2946784966,699525795
+dimwishlist:item=1141547457,247725512,3673922083
+dimwishlist:item=1141547457,509074078,3673922083
+
+
+
+
 //True Prophecy
 //notes:"PvP: Pair Opening Shot with Rampage for a blint gun, or Rangefinder and Timed Payload as a straight-forward primary. Explosive Payload also has potential."
 dimwishlist:item=2742838700&perks=3142289711,47981717,3425386926
@@ -681,6 +704,7 @@ dimwishlist:item=1967303408
 //
 // *****PULSE RIFLES****
 //
+//Piece of Mind
 
 //BXR-55 Battler
 //Notes:Despite the large scope this new frame type really encourages you to hipfire. 70 recoil direction so consider a Counterbalance mod unless you get Arrowhead break. Perpetual Motion and Killing Wind are going to be godly here, especially with Eye of the Storm. Autoloading holster can further help with a run and gun playstyle and the handling is decent at 74. Also has the rare combination of demolitionist and adrenaline junkie.
@@ -2306,6 +2330,13 @@ dimwishlist:item=3629968765&perks=938542991,2349202967,1749209109,3708227201
 
 //notes:Boss debuff roll: The primary purpose of this build is to keep up Flash Counter and not die, even at the cost of personal DPS. Burst Guard, Energy Transfer, Flash Counter. Most useful on Hunter because dodge is OP, then Warlock (get bumped away, pop rift, do ranged damage until it's time to debuff again) and then Titan (get bounced away, pop a barricade, and heal or DPS at range from cover).
 dimwishlist:item=3629968765&perks=1261178282,3625355092,2030760728,2244851822
+
+//Razor's Edge
+//notes:Test Assassin's Blade for duration and stow effects. Frenzy might be strictly worse.
+dimwishlist:item=1796949035,354401740
+
+//notes:Wellspring and chain reaction.
+dimwishlist:item=1796949035,3592538738,2396489472
 
 
 //Steel Sybil
