@@ -370,7 +370,13 @@ dimwishlist:item=304659313&perks=409831596,706527188,3523296417
 dimwishlist:item=304659313&perks=409831596,706527188,1546637391
 dimwishlist:item=304659313&perks=3301904089,706527188,1546637391
 
-
+//Forbearance
+//Notes:PvE
+dimwishlist:item=2480074702&perks=2010801679,2396489472
+dimwishlist:item=2480074702&perks=3523296417,2396489472
+//Notes:utility, synergy, ability-spam builds
+dimwishlist:item=2480074702&perks=3523296417,3592538738
+dimwishlist:item=2480074702&perks=3108830275,4049631843
 
 // Orewing's Maul
 //notes: (PvP/Controller): There is almost no reason to use this in PvP as long as Truthteller is available. The only unique roll is with Rangefinder. Pairing that with max Blast Radius Perks and Proximity Grenades, will make the gun more Mountain-top ish. Your best bets for barrels are  Volatile Launch or Linear Compensator. We don't care about handling because of Quickdraw. Use a Quick Access Sling mod.|tags:PvP,Controller
@@ -427,6 +433,13 @@ dimwishlist:item=3568377122,2985827016,3523296417,2978966579
 dimwishlist:item=3568377122,2985827016,951095735,2978966579
 dimwishlist:item=3568377122,3523296417,3592538738
 
+//Mountaintop
+//Notes:PvE: Looking for ALH and Recombination or Overflow and Recombination or Ambitious Assassin and Recombination. Want to try Envious Assassin and Vorpal. Spike Grenades are bad unless paired with hard launch- keep blast radius low.
+dimwishlist:item=568611922&perks=3300816228,469285294
+dimwishlist:item=568611922&perks=3643424744,469285294
+dimwishlist:item=568611922&perks=2010801679,1546637391
+dimwishlist:item=568611922&perks=3523296417,11612903
+dimwishlist:item=568611922&perks=2010801679,469285294
 
 //
 // *****HAND CANNONS*****
@@ -691,8 +704,9 @@ dimwishlist:item=1141547457,2946784966,699525795
 dimwishlist:item=1141547457,247725512,3673922083
 dimwishlist:item=1141547457,509074078,3673922083
 
-
-
+//Midnight Coup
+//Notes:PvP
+dimwishlist:item=2499720827&perks=3038247973,2387244414
 
 //True Prophecy
 //notes:"PvP: Pair Opening Shot with Rampage for a blint gun, or Rangefinder and Timed Payload as a straight-forward primary. Explosive Payload also has potential."
@@ -727,6 +741,16 @@ dimwishlist:item=334171687&perks=247725512,1546637391
 //Archon's Thunder
 //Notes: Placeholder. Looks like a lot of PvE rolls. Slow firing, low stability.
 dimwishlist:item=1967303408
+
+//Hammerhead
+//Notes:PVE roll
+dimwishlist:item=568611922&perks=3523296417,11612903
+dimwishlist:item=211732170&perks=3418782618,95528736
+dimwishlist:item=211732170&perks=968510818,557221067
+//Notes:PVE #Godroll
+dimwishlist:item=211732170&perks=3425386926,557221067
+//Notes:PvP roll if it has decent range.
+dimwishlist:item=211732170&perks=1870851715,1890422124
 
 //
 // *****PULSE RIFLES****
