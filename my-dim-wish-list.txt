@@ -327,6 +327,17 @@ dimwishlist:item=407621213&perks=3301904089,2284787283,3275789089
 dimwishlist:item=407621213&perks=1380253176,706527188,3523296417
 dimwishlist:item=407621213&perks=1380253176,4071163871,3523296417
 
+//Edge Transit
+//Notes:PvE
+dimwishlist:item=568611923&perks=968510818,3078487919
+dimwishlist:item=568611923&perks=3751912585,3078487919
+dimwishlist:item=568611923&perks=2396489472,3078487919
+
+//Notes:PvP
+dimwishlist:item=568611923&perks=951095735,3993379141
+dimwishlist:item=568611923&perks=951095735,2888557110
+
+
 //Empty Vessel
 //notes: There are a few use cases for PvE: Add clear, add control, or boss/champion damage. For add clear, look for Surplus, Feeding Frenzy, or Ambitious Assassin with Multikill Clip and One for All.  
 dimwishlist:item=4255586669&perks=3436462433,2458213969#notes:|tags:PvE,Add Clear
@@ -704,9 +715,30 @@ dimwishlist:item=1141547457,2946784966,699525795
 dimwishlist:item=1141547457,247725512,3673922083
 dimwishlist:item=1141547457,509074078,3673922083
 
+//Luna's Howl
+//Notes:PvE
+dimwishlist:item=2763843899&perks=3017780555,4293542123
+//Notes:PvP
+dimwishlist:item=2763843899&perks=3161816588,2720533289
+dimwishlist:item=2763843899&perks=3161816588,47981717
+dimwishlist:item=2763843899&perks=1195158366,2720533289
+dimwishlist:item=2763843899&perks=3828510309,555281244
+
+
 //Midnight Coup
 //Notes:PvP
 dimwishlist:item=2499720827&perks=3038247973,2387244414
+//Notes:PvE adds
+dimwishlist:item=2499720827&perks=3824105627,4049631843
+//Notes:PvE boss
+dimwishlist:item=2499720827&perks=3038247973,3891536761
+dimwishlist:item=2499720827&perks=243981275,3891536761
+//Notes:PvE utility
+dimwishlist:item=2499720827&perks=3700496672,3891536761
+//Notes:PvP God roll 4/4, 5/5 with stability MW.
+dimwishlist:item=2499720827&perks=1482024992,3142289711,588594999,2387244414
+
+
 
 //True Prophecy
 //notes:"PvP: Pair Opening Shot with Rampage for a blint gun, or Rangefinder and Timed Payload as a straight-forward primary. Explosive Payload also has potential."
@@ -755,6 +787,18 @@ dimwishlist:item=211732170&perks=1870851715,1890422124
 //
 // *****PULSE RIFLES****
 //
+//Elsie's Rifle
+//Notes:PvP
+dimwishlist:item=2372514509&perks=2387244414,460017080
+dimwishlist:item=2372514509&perks=2387244414,1015611457
+dimwishlist:item=2372514509&perks=2387244414,3047969693
+dimwishlist:item=2372514509&perks=3619207468,460017080
+
+//Notes:PvE
+dimwishlist:item=2372514509&perks=3418782618,4104185692
+dimwishlist:item=2372514509&perks=776531651,2048641572
+
+
 //Piece of Mind
 
 //BXR-55 Battler
@@ -1075,6 +1119,17 @@ dimwishlist:item=991314988&perks=2822142346,3977735242,706527188
 //
 // *****SCOUT RIFLES****
 //
+//Hung Jury
+//Notes:PvE
+dimwishlist:item=205225492&perks=3891536761,4049631843
+dimwishlist:item=205225492&perks=3891536761,3824105627
+dimwishlist:item=205225492&perks=3418782618,555281244
+
+//Notes:PvP
+dimwishlist:item=205225492&perks=2866798147,2551157718
+
+
+
 //Night Watch
 //notes:PvP: Barrels: Chambered Compensator + Counterbalance Mod gives a respectable 82 recoil direction. Other barrel options are Small Bore, Corkscrew, or Fluted. Arrowhead Break is probably overkill but will make recoil perfectly vertical with CB mod. For magazines, Drop Mag is a very viable choice as it brings base reload up to 89. Otherwise, Steady Rounds > Flared Magwell > Tactical Mag. Perk combos: MKC drops optimal TTK to .6 with only 1 stack. Moving Target will help hit Optimal TTK, and Explosive Rounds can help flinch out a win in a duel. Outlaw is going to be the preferred choice, with Rapid Hit as a close second given an optimal kill requires 3C. Threat detector can be very valuable while someone is closing the gap and not yet in range of your secondary. Baglog's chase roll: DM, SR, TD, MKC, Stability or Reload MW.
 dimwishlist:item=3504336176&perks=3661387068,4134353779,4071163871,2458213969
@@ -2321,10 +2376,20 @@ dimwishlist:item=766323545&perks=1431678320,972757866,1546637391
 //
 //all swords: Tireless Blade's perk means 'Whenever the sword has ammo' making it good for trash spamming. Charge rate is how long it takes for sword energy to come back. Guard endurance is how long you can hold the guard animation. Guard efficiency determines how fast your energy tanks while taking damage. Guard resistance is amount of damage prevented per shot. PvP: Efficiency and Resistance, PvE Efficiency and Endurance. 
 
+//Falling Guillotine
+//Notes:PvE
+dimwishlist:item=243425374&perks=2396489472,2077819806
+dimwishlist:item=243425374&perks=2396489472,2048641572
+dimwishlist:item=243425374&perks=243981275,2077819806
+dimwishlist:item=243425374&perks=1749209109,3913600130
+dimwishlist:item=243425374&perks=1546637391,3913600130
+
+
 //Half-Truths
 //Notes: Has the new perk Eager Edge, which may or may not be good but look out for it. Also look out for Relentless Attacks and Harmony for some potential boss DPS time.
 dimwishlist:item=3257091166&perks=2077819806
 dimwishlist:item=3257091166&perks=1749209109,438098033
+
 
 
 //Honor's Edge
