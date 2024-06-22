@@ -2376,6 +2376,16 @@ dimwishlist:item=766323545&perks=1431678320,972757866,1546637391
 //
 //all swords: Tireless Blade's perk means 'Whenever the sword has ammo' making it good for trash spamming. Charge rate is how long it takes for sword energy to come back. Guard endurance is how long you can hold the guard animation. Guard efficiency determines how fast your energy tanks while taking damage. Guard resistance is amount of damage prevented per shot. PvP: Efficiency and Resistance, PvE Efficiency and Endurance. 
 
+//Ergo Sum
+//Notes:PvE DPS God Roll
+dimwishlist:item=1681583613&perks=3666208348,269888150,519046634
+
+//Notes:PvE honorable mention/void specific roll
+dimwishlist:item=1681583613&perks=3666208348,269888150,519046634
+dimwishlist:item=1681583613&perks=3666208348,269888150,289811733
+dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730
+
+
 //Falling Guillotine
 //Notes:PvE
 dimwishlist:item=243425374&perks=2396489472,2077819806
